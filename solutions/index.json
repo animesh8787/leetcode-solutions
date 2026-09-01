@@ -1,0 +1,16 @@
+{
+ "updated": "2026-09-01T19:28:59.239Z",
+ "entries": {
+  "find-the-index-of-the-first-occurrence-in-a-string": {
+   "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+   "title": "Find the Index of the First Occurrence in a String",
+   "qid": 0,
+   "difficulty": "",
+   "topic": "misc",
+   "ext": "cpp",
+   "path": "solutions/misc/0000-find-the-index-of-the-first-occurrence-in-a-string.cpp",
+   "solvedAt": "2026-09-01T19:28:55.444Z",
+   "lang": "cpp"
+  }
+ }
+}
