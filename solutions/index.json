@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T19:28:59.239Z",
+ "updated": "2026-09-01T19:29:51.979Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -9,7 +9,7 @@
    "topic": "misc",
    "ext": "cpp",
    "path": "solutions/misc/0000-find-the-index-of-the-first-occurrence-in-a-string.cpp",
-   "solvedAt": "2026-09-01T19:28:55.444Z",
+   "solvedAt": "2026-09-01T19:29:47.943Z",
    "lang": "cpp"
   }
  }
