@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T05:29:38.380Z",
+ "updated": "2026-09-02T05:30:35.548Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -54,6 +54,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-house-robber.cpp",
    "solvedAt": "2026-09-02T05:29:35.722Z",
+   "lang": "cpp"
+  },
+  "construct-uniform-parity-array-i": {
+   "slug": "construct-uniform-parity-array-i",
+   "title": "Construct Uniform Parity Array I",
+   "qid": 0,
+   "difficulty": "Easy",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-construct-uniform-parity-array-i.cpp",
+   "solvedAt": "2026-09-02T05:30:32.854Z",
    "lang": "cpp"
   }
  }
