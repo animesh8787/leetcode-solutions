@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-02.
 
-**7** solutions - Easy 2 - Medium 3 - Hard 1
+**8** solutions - Easy 2 - Medium 3 - Hard 2
 
 ## Array (4)
 
@@ -18,6 +18,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
 | 1976 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | Medium | [cpp](solutions/dynamic-programming/1976-number-of-ways-to-arrive-at-destination.cpp) |
+
+## Hash Table (1)
+
+| # | Problem | Difficulty | Solution |
+|---|---|---|---|
+|  | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | Hard | [cpp](solutions/hash-table/0000-maximum-number-of-non-overlapping-substrings.cpp) |
 
 ## Math (1)
 
