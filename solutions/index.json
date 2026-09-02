@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T05:12:25.813Z",
+ "updated": "2026-09-02T05:28:44.186Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -32,6 +32,17 @@
    "ext": "cpp",
    "path": "solutions/array/0778-swim-in-rising-water.cpp",
    "solvedAt": "2026-09-01",
+   "lang": "cpp"
+  },
+  "house-robber-ii": {
+   "slug": "house-robber-ii",
+   "title": "House Robber II",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-house-robber-ii.cpp",
+   "solvedAt": "2026-09-02T05:28:41.405Z",
    "lang": "cpp"
   }
  }
