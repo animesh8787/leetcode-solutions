@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-02.
 
-**6** solutions - Easy 1 - Medium 3 - Hard 1
+**7** solutions - Easy 2 - Medium 3 - Hard 1
 
 ## Array (4)
 
@@ -18,6 +18,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
 | 1976 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | Medium | [cpp](solutions/dynamic-programming/1976-number-of-ways-to-arrive-at-destination.cpp) |
+
+## Math (1)
+
+| # | Problem | Difficulty | Solution |
+|---|---|---|---|
+|  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [cpp](solutions/math/0000-climbing-stairs.cpp) |
 
 ## Misc (1)
 
