@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01T19:29:51.979Z",
+ "updated": "2026-09-02T05:12:25.813Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -10,6 +10,28 @@
    "ext": "cpp",
    "path": "solutions/misc/0000-find-the-index-of-the-first-occurrence-in-a-string.cpp",
    "solvedAt": "2026-09-01T19:29:47.943Z",
+   "lang": "cpp"
+  },
+  "number-of-ways-to-arrive-at-destination": {
+   "slug": "number-of-ways-to-arrive-at-destination",
+   "title": "Number of Ways to Arrive at Destination",
+   "qid": 1976,
+   "difficulty": "Medium",
+   "topic": "dynamic-programming",
+   "ext": "cpp",
+   "path": "solutions/dynamic-programming/1976-number-of-ways-to-arrive-at-destination.cpp",
+   "solvedAt": "2026-09-01",
+   "lang": "cpp"
+  },
+  "swim-in-rising-water": {
+   "slug": "swim-in-rising-water",
+   "title": "Swim in Rising Water",
+   "qid": 778,
+   "difficulty": "Hard",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0778-swim-in-rising-water.cpp",
+   "solvedAt": "2026-09-01",
    "lang": "cpp"
   }
  }
