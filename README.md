@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-02.
 
-**8** solutions - Easy 2 - Medium 3 - Hard 2
+**9** solutions - Easy 2 - Medium 3 - Hard 3
 
 ## Array (4)
 
@@ -12,6 +12,12 @@
 |  | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | [cpp](solutions/array/0000-house-robber.cpp) |
 |  | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | [cpp](solutions/array/0000-construct-uniform-parity-array-i.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
+
+## Depth First Search (1)
+
+| # | Problem | Difficulty | Solution |
+|---|---|---|---|
+|  | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | Hard | [cpp](solutions/depth-first-search/0000-critical-connections-in-a-network.cpp) |
 
 ## Dynamic Programming (1)
 
