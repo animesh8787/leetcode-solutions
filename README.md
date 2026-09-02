@@ -2,13 +2,14 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-02.
 
-**4** solutions - Easy 0 - Medium 2 - Hard 1
+**5** solutions - Easy 0 - Medium 3 - Hard 1
 
-## Array (2)
+## Array (3)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
 |  | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [cpp](solutions/array/0000-house-robber-ii.cpp) |
+|  | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | [cpp](solutions/array/0000-house-robber.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Dynamic Programming (1)
