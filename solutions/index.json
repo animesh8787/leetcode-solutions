@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02T05:32:09.218Z",
+ "updated": "2026-09-02T05:32:56.436Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -76,6 +76,17 @@
    "ext": "cpp",
    "path": "solutions/math/0000-climbing-stairs.cpp",
    "solvedAt": "2026-09-02T05:32:06.674Z",
+   "lang": "cpp"
+  },
+  "maximum-number-of-non-overlapping-substrings": {
+   "slug": "maximum-number-of-non-overlapping-substrings",
+   "title": "Maximum Number of Non-Overlapping Substrings",
+   "qid": 0,
+   "difficulty": "Hard",
+   "topic": "hash-table",
+   "ext": "cpp",
+   "path": "solutions/hash-table/0000-maximum-number-of-non-overlapping-substrings.cpp",
+   "solvedAt": "2026-09-02T05:32:53.877Z",
    "lang": "cpp"
   }
  }
