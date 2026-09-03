@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T09:26:29.589Z",
+ "updated": "2026-09-03T09:26:38.846Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -130,7 +130,7 @@
    "topic": "array",
    "ext": "cpp",
    "path": "solutions/array/0000-construct-uniform-parity-array-ii.cpp",
-   "solvedAt": "2026-09-03T09:24:59.416Z",
+   "solvedAt": "2026-09-03T09:26:35.851Z",
    "lang": "cpp"
   },
   "number-of-operations-to-make-network-connected": {
