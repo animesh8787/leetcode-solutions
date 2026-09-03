@@ -2,9 +2,9 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-03.
 
-**14** solutions - Easy 3 - Medium 7 - Hard 3
+**15** solutions - Easy 3 - Medium 8 - Hard 3
 
-## Array (6)
+## Array (7)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -13,6 +13,7 @@
 |  | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | [cpp](solutions/array/0000-construct-uniform-parity-array-i.cpp) |
 |  | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | [cpp](solutions/array/0000-construct-uniform-parity-array-ii.cpp) |
 |  | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [cpp](solutions/array/0000-remove-element.cpp) |
+|  | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | Medium | [cpp](solutions/array/0000-accounts-merge.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Depth First Search (2)
