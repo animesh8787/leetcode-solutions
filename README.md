@@ -2,15 +2,16 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-03.
 
-**11** solutions - Easy 2 - Medium 5 - Hard 3
+**12** solutions - Easy 2 - Medium 6 - Hard 3
 
-## Array (4)
+## Array (5)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
 |  | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [cpp](solutions/array/0000-house-robber-ii.cpp) |
 |  | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | [cpp](solutions/array/0000-house-robber.cpp) |
 |  | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | Easy | [cpp](solutions/array/0000-construct-uniform-parity-array-i.cpp) |
+|  | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | [cpp](solutions/array/0000-construct-uniform-parity-array-ii.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Depth First Search (1)
