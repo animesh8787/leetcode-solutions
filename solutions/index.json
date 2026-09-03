@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T09:20:38.045Z",
+ "updated": "2026-09-03T09:24:07.130Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -109,6 +109,17 @@
    "ext": "cpp",
    "path": "solutions/math/0000-unique-paths.cpp",
    "solvedAt": "2026-09-03T09:20:35.199Z",
+   "lang": "cpp"
+  },
+  "most-stones-removed-with-same-row-or-column": {
+   "slug": "most-stones-removed-with-same-row-or-column",
+   "title": "Most Stones Removed with Same Row or Column",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "hash-table",
+   "ext": "cpp",
+   "path": "solutions/hash-table/0000-most-stones-removed-with-same-row-or-column.cpp",
+   "solvedAt": "2026-09-03T09:24:03.850Z",
    "lang": "cpp"
   }
  }
