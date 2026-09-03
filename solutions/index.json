@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T09:26:19.350Z",
+ "updated": "2026-09-03T09:26:29.589Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -186,6 +186,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-minimum-path-sum.cpp",
    "solvedAt": "2026-09-03T09:26:17.207Z",
+   "lang": "cpp"
+  },
+  "triangle": {
+   "slug": "triangle",
+   "title": "Triangle",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-triangle.cpp",
+   "solvedAt": "2026-09-03T09:26:27.421Z",
    "lang": "cpp"
   }
  }
