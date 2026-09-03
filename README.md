@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-03.
 
-**12** solutions - Easy 2 - Medium 6 - Hard 3
+**13** solutions - Easy 2 - Medium 7 - Hard 3
 
 ## Array (5)
 
@@ -14,11 +14,12 @@
 |  | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii/) | Medium | [cpp](solutions/array/0000-construct-uniform-parity-array-ii.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
-## Depth First Search (1)
+## Depth First Search (2)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
 |  | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | Hard | [cpp](solutions/depth-first-search/0000-critical-connections-in-a-network.cpp) |
+|  | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | Medium | [cpp](solutions/depth-first-search/0000-number-of-operations-to-make-network-connected.cpp) |
 
 ## Dynamic Programming (1)
 
