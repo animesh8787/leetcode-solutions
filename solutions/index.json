@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T09:24:07.130Z",
+ "updated": "2026-09-03T09:25:02.348Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -120,6 +120,17 @@
    "ext": "cpp",
    "path": "solutions/hash-table/0000-most-stones-removed-with-same-row-or-column.cpp",
    "solvedAt": "2026-09-03T09:24:03.850Z",
+   "lang": "cpp"
+  },
+  "construct-uniform-parity-array-ii": {
+   "slug": "construct-uniform-parity-array-ii",
+   "title": "Construct Uniform Parity Array II",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-construct-uniform-parity-array-ii.cpp",
+   "solvedAt": "2026-09-03T09:24:59.416Z",
    "lang": "cpp"
   }
  }
