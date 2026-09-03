@@ -2,9 +2,9 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-03.
 
-**17** solutions - Easy 3 - Medium 10 - Hard 3
+**18** solutions - Easy 3 - Medium 11 - Hard 3
 
-## Array (9)
+## Array (10)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -16,6 +16,7 @@
 |  | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | Medium | [cpp](solutions/array/0000-accounts-merge.cpp) |
 |  | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | [cpp](solutions/array/0000-unique-paths-ii.cpp) |
 |  | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | [cpp](solutions/array/0000-minimum-path-sum.cpp) |
+|  | [Triangle](https://leetcode.com/problems/triangle/) | Medium | [cpp](solutions/array/0000-triangle.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Depth First Search (2)
