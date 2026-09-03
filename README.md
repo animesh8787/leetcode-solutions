@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-09-02.
+> Auto-committed by Nexus OS. Updated 2026-09-03.
 
-**9** solutions - Easy 2 - Medium 3 - Hard 3
+**10** solutions - Easy 2 - Medium 4 - Hard 3
 
 ## Array (4)
 
@@ -31,11 +31,12 @@
 |---|---|---|---|
 |  | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | Hard | [cpp](solutions/hash-table/0000-maximum-number-of-non-overlapping-substrings.cpp) |
 
-## Math (1)
+## Math (2)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
 |  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [cpp](solutions/math/0000-climbing-stairs.cpp) |
+|  | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [cpp](solutions/math/0000-unique-paths.cpp) |
 
 ## Misc (1)
 
