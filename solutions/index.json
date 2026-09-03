@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T09:25:02.348Z",
+ "updated": "2026-09-03T09:25:43.062Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -131,6 +131,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-construct-uniform-parity-array-ii.cpp",
    "solvedAt": "2026-09-03T09:24:59.416Z",
+   "lang": "cpp"
+  },
+  "number-of-operations-to-make-network-connected": {
+   "slug": "number-of-operations-to-make-network-connected",
+   "title": "Number of Operations to Make Network Connected",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "depth-first-search",
+   "ext": "cpp",
+   "path": "solutions/depth-first-search/0000-number-of-operations-to-make-network-connected.cpp",
+   "solvedAt": "2026-09-03T09:25:38.673Z",
    "lang": "cpp"
   }
  }
