@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T09:26:38.846Z",
+ "updated": "2026-09-03T09:26:47.194Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -119,7 +119,7 @@
    "topic": "hash-table",
    "ext": "cpp",
    "path": "solutions/hash-table/0000-most-stones-removed-with-same-row-or-column.cpp",
-   "solvedAt": "2026-09-03T09:24:03.850Z",
+   "solvedAt": "2026-09-03T09:26:44.715Z",
    "lang": "cpp"
   },
   "construct-uniform-parity-array-ii": {
