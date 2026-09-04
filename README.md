@@ -2,9 +2,9 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-04.
 
-**19** solutions - Easy 4 - Medium 11 - Hard 3
+**20** solutions - Easy 4 - Medium 11 - Hard 4
 
-## Array (11)
+## Array (12)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -18,6 +18,7 @@
 |  | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | [cpp](solutions/array/0000-minimum-path-sum.cpp) |
 |  | [Triangle](https://leetcode.com/problems/triangle/) | Medium | [cpp](solutions/array/0000-triangle.cpp) |
 |  | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | [cpp](solutions/array/0000-smallest-stable-index-i.cpp) |
+|  | [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | [cpp](solutions/array/0000-partition-array-into-two-arrays-to-minimize-sum-difference.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Depth First Search (2)
