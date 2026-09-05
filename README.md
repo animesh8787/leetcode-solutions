@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-09-04.
+> Auto-committed by Nexus OS. Updated 2026-09-05.
 
-**21** solutions - Easy 4 - Medium 12 - Hard 4
+**22** solutions - Easy 4 - Medium 12 - Hard 4
 
 ## Array (13)
 
@@ -49,9 +49,10 @@
 |  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [cpp](solutions/math/0000-climbing-stairs.cpp) |
 |  | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [cpp](solutions/math/0000-unique-paths.cpp) |
 
-## Misc (1)
+## Misc (2)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
 |  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | - | [cpp](solutions/misc/0000-find-the-index-of-the-first-occurrence-in-a-string.cpp) |
+|  | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | - | [cpp](solutions/misc/0000-maximum-matching-of-players-with-trainers.cpp) |
 
