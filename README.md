@@ -2,9 +2,9 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-05.
 
-**22** solutions - Easy 4 - Medium 12 - Hard 4
+**23** solutions - Easy 4 - Medium 13 - Hard 4
 
-## Array (13)
+## Array (14)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -20,6 +20,7 @@
 |  | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | Easy | [cpp](solutions/array/0000-smallest-stable-index-i.cpp) |
 |  | [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | [cpp](solutions/array/0000-partition-array-into-two-arrays-to-minimize-sum-difference.cpp) |
 |  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | [cpp](solutions/array/0000-partition-equal-subset-sum.cpp) |
+|  | [Target Sum](https://leetcode.com/problems/target-sum/) | Medium | [cpp](solutions/array/0000-target-sum.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Depth First Search (2)
