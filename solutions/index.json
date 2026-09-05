@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04T07:19:58.841Z",
+ "updated": "2026-09-05T04:54:17.190Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -230,6 +230,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-partition-equal-subset-sum.cpp",
    "solvedAt": "2026-09-04T07:19:55.917Z",
+   "lang": "cpp"
+  },
+  "maximum-matching-of-players-with-trainers": {
+   "slug": "maximum-matching-of-players-with-trainers",
+   "title": "Maximum Matching of Players With Trainers",
+   "qid": 0,
+   "difficulty": "",
+   "topic": "misc",
+   "ext": "cpp",
+   "path": "solutions/misc/0000-maximum-matching-of-players-with-trainers.cpp",
+   "solvedAt": "2026-09-05T04:54:14.545Z",
    "lang": "cpp"
   }
  }
