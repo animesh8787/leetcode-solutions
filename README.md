@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-06.
 
-**31** solutions - Easy 4 - Medium 17 - Hard 8
+**32** solutions - Easy 4 - Medium 18 - Hard 8
 
 ## Array (16)
 
@@ -59,7 +59,7 @@
 |  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | - | [cpp](solutions/misc/0000-find-the-index-of-the-first-occurrence-in-a-string.cpp) |
 |  | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | - | [cpp](solutions/misc/0000-maximum-matching-of-players-with-trainers.cpp) |
 
-## String (6)
+## String (7)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -69,4 +69,5 @@
 |  | [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) | Hard | [cpp](solutions/string/0000-shortest-common-supersequence.cpp) |
 |  | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | Medium | [cpp](solutions/string/0000-delete-operation-for-two-strings.cpp) |
 |  | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Hard | [cpp](solutions/string/0000-minimum-insertion-steps-to-make-a-string-palindrome.cpp) |
+|  | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | Medium | [cpp](solutions/string/0000-longest-palindromic-subsequence.cpp) |
 
