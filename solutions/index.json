@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-05T05:33:35.040Z",
+ "updated": "2026-09-06T06:48:22.890Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -274,6 +274,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-coin-change-ii.cpp",
    "solvedAt": "2026-09-05T05:33:32.157Z",
+   "lang": "cpp"
+  },
+  "distinct-subsequences": {
+   "slug": "distinct-subsequences",
+   "title": "Distinct Subsequences",
+   "qid": 0,
+   "difficulty": "Hard",
+   "topic": "string",
+   "ext": "cpp",
+   "path": "solutions/string/0000-distinct-subsequences.cpp",
+   "solvedAt": "2026-09-06T06:48:19.923Z",
    "lang": "cpp"
   }
  }
