@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06T06:50:31.046Z",
+ "updated": "2026-09-06T06:50:54.855Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -307,6 +307,17 @@
    "ext": "cpp",
    "path": "solutions/string/0000-edit-distance.cpp",
    "solvedAt": "2026-09-06T06:50:28.449Z",
+   "lang": "cpp"
+  },
+  "shortest-common-supersequence": {
+   "slug": "shortest-common-supersequence",
+   "title": "Shortest Common Supersequence",
+   "qid": 0,
+   "difficulty": "Hard",
+   "topic": "string",
+   "ext": "cpp",
+   "path": "solutions/string/0000-shortest-common-supersequence.cpp",
+   "solvedAt": "2026-09-06T06:50:53.174Z",
    "lang": "cpp"
   }
  }
