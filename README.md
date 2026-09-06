@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-06.
 
-**27** solutions - Easy 4 - Medium 15 - Hard 6
+**28** solutions - Easy 4 - Medium 16 - Hard 6
 
 ## Array (16)
 
@@ -59,10 +59,11 @@
 |  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | - | [cpp](solutions/misc/0000-find-the-index-of-the-first-occurrence-in-a-string.cpp) |
 |  | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | - | [cpp](solutions/misc/0000-maximum-matching-of-players-with-trainers.cpp) |
 
-## String (2)
+## String (3)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
 |  | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | Hard | [cpp](solutions/string/0000-distinct-subsequences.cpp) |
 |  | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | Hard | [cpp](solutions/string/0000-wildcard-matching.cpp) |
+|  | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Medium | [cpp](solutions/string/0000-edit-distance.cpp) |
 
