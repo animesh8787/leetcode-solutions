@@ -2,9 +2,9 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-07.
 
-**34** solutions - Easy 5 - Medium 18 - Hard 9
+**35** solutions - Easy 5 - Medium 19 - Hard 9
 
-## Array (17)
+## Array (18)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -24,6 +24,7 @@
 |  | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [cpp](solutions/array/0000-coin-change.cpp) |
 |  | [Coin Change II](https://leetcode.com/problems/coin-change-ii/) | Medium | [cpp](solutions/array/0000-coin-change-ii.cpp) |
 |  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [cpp](solutions/array/0000-best-time-to-buy-and-sell-stock.cpp) |
+|  | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium | [cpp](solutions/array/0000-best-time-to-buy-and-sell-stock-with-transaction-fee.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Depth First Search (2)
