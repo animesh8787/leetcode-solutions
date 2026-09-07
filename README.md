@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-09-06.
+> Auto-committed by Nexus OS. Updated 2026-09-07.
 
-**32** solutions - Easy 4 - Medium 18 - Hard 8
+**33** solutions - Easy 4 - Medium 18 - Hard 9
 
 ## Array (16)
 
@@ -59,7 +59,7 @@
 |  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | - | [cpp](solutions/misc/0000-find-the-index-of-the-first-occurrence-in-a-string.cpp) |
 |  | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | - | [cpp](solutions/misc/0000-maximum-matching-of-players-with-trainers.cpp) |
 
-## String (7)
+## String (8)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -70,4 +70,5 @@
 |  | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | Medium | [cpp](solutions/string/0000-delete-operation-for-two-strings.cpp) |
 |  | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Hard | [cpp](solutions/string/0000-minimum-insertion-steps-to-make-a-string-palindrome.cpp) |
 |  | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | Medium | [cpp](solutions/string/0000-longest-palindromic-subsequence.cpp) |
+|  | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | Hard | [cpp](solutions/string/0000-distinct-subsequences-ii.cpp) |
 
