@@ -2,9 +2,9 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-07.
 
-**38** solutions - Easy 5 - Medium 20 - Hard 11
+**39** solutions - Easy 5 - Medium 21 - Hard 11
 
-## Array (21)
+## Array (22)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -28,6 +28,7 @@
 |  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | Medium | [cpp](solutions/array/0000-best-time-to-buy-and-sell-stock-with-cooldown.cpp) |
 |  | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | Hard | [cpp](solutions/array/0000-best-time-to-buy-and-sell-stock-iv.cpp) |
 |  | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | Hard | [cpp](solutions/array/0000-best-time-to-buy-and-sell-stock-iii.cpp) |
+|  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | [cpp](solutions/array/0000-best-time-to-buy-and-sell-stock-ii.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Depth First Search (2)
