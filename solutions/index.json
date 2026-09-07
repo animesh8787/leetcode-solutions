@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T10:27:35.330Z",
+ "updated": "2026-09-07T10:28:15.637Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -406,6 +406,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-best-time-to-buy-and-sell-stock-iv.cpp",
    "solvedAt": "2026-09-07T10:27:33.021Z",
+   "lang": "cpp"
+  },
+  "best-time-to-buy-and-sell-stock-iii": {
+   "slug": "best-time-to-buy-and-sell-stock-iii",
+   "title": "Best Time to Buy and Sell Stock III",
+   "qid": 0,
+   "difficulty": "Hard",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-best-time-to-buy-and-sell-stock-iii.cpp",
+   "solvedAt": "2026-09-07T10:28:11.108Z",
    "lang": "cpp"
   }
  }
