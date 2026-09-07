@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-06T06:52:32.990Z",
+ "updated": "2026-09-07T10:20:04.567Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -351,6 +351,17 @@
    "ext": "cpp",
    "path": "solutions/string/0000-longest-palindromic-subsequence.cpp",
    "solvedAt": "2026-09-06T06:52:31.144Z",
+   "lang": "cpp"
+  },
+  "distinct-subsequences-ii": {
+   "slug": "distinct-subsequences-ii",
+   "title": "Distinct Subsequences II",
+   "qid": 0,
+   "difficulty": "Hard",
+   "topic": "string",
+   "ext": "cpp",
+   "path": "solutions/string/0000-distinct-subsequences-ii.cpp",
+   "solvedAt": "2026-09-07T10:20:01.037Z",
    "lang": "cpp"
   }
  }
