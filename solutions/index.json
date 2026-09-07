@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07T10:25:38.278Z",
+ "updated": "2026-09-07T10:26:03.884Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -373,6 +373,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-best-time-to-buy-and-sell-stock.cpp",
    "solvedAt": "2026-09-07T10:25:35.391Z",
+   "lang": "cpp"
+  },
+  "best-time-to-buy-and-sell-stock-with-transaction-fee": {
+   "slug": "best-time-to-buy-and-sell-stock-with-transaction-fee",
+   "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-best-time-to-buy-and-sell-stock-with-transaction-fee.cpp",
+   "solvedAt": "2026-09-07T10:26:02.049Z",
    "lang": "cpp"
   }
  }
