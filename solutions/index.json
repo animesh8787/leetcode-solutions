@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T15:41:45.130Z",
+ "updated": "2026-09-08T15:42:13.431Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -450,6 +450,17 @@
    "ext": "cpp",
    "path": "solutions/math/0000-count-commas-in-range.cpp",
    "solvedAt": "2026-09-08T15:41:42.838Z",
+   "lang": "cpp"
+  },
+  "longest-string-chain": {
+   "slug": "longest-string-chain",
+   "title": "Longest String Chain",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-longest-string-chain.cpp",
+   "solvedAt": "2026-09-08T15:42:11.681Z",
    "lang": "cpp"
   }
  }
