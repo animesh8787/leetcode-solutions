@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T15:41:39.047Z",
+ "updated": "2026-09-08T15:41:45.130Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -439,6 +439,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-number-of-longest-increasing-subsequence.cpp",
    "solvedAt": "2026-09-08T15:41:36.040Z",
+   "lang": "cpp"
+  },
+  "count-commas-in-range": {
+   "slug": "count-commas-in-range",
+   "title": "Count Commas in Range",
+   "qid": 0,
+   "difficulty": "Easy",
+   "topic": "math",
+   "ext": "cpp",
+   "path": "solutions/math/0000-count-commas-in-range.cpp",
+   "solvedAt": "2026-09-08T15:41:42.838Z",
    "lang": "cpp"
   }
  }
