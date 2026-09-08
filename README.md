@@ -2,9 +2,9 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-08.
 
-**42** solutions - Easy 6 - Medium 23 - Hard 11
+**43** solutions - Easy 6 - Medium 24 - Hard 11
 
-## Array (24)
+## Array (25)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -31,6 +31,7 @@
 |  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | [cpp](solutions/array/0000-best-time-to-buy-and-sell-stock-ii.cpp) |
 |  | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | Medium | [cpp](solutions/array/0000-number-of-longest-increasing-subsequence.cpp) |
 |  | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | Medium | [cpp](solutions/array/0000-longest-string-chain.cpp) |
+|  | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Medium | [cpp](solutions/array/0000-largest-divisible-subset.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Depth First Search (2)
