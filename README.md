@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-08.
 
-**40** solutions - Easy 5 - Medium 22 - Hard 11
+**41** solutions - Easy 6 - Medium 22 - Hard 11
 
 ## Array (23)
 
@@ -52,12 +52,13 @@
 |  | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | Hard | [cpp](solutions/hash-table/0000-maximum-number-of-non-overlapping-substrings.cpp) |
 |  | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | Medium | [cpp](solutions/hash-table/0000-most-stones-removed-with-same-row-or-column.cpp) |
 
-## Math (2)
+## Math (3)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
 |  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [cpp](solutions/math/0000-climbing-stairs.cpp) |
 |  | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [cpp](solutions/math/0000-unique-paths.cpp) |
+|  | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | Easy | [cpp](solutions/math/0000-count-commas-in-range.cpp) |
 
 ## Misc (2)
 
