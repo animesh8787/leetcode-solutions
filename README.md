@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-09-07.
+> Auto-committed by Nexus OS. Updated 2026-09-08.
 
-**39** solutions - Easy 5 - Medium 21 - Hard 11
+**40** solutions - Easy 5 - Medium 22 - Hard 11
 
-## Array (22)
+## Array (23)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -29,6 +29,7 @@
 |  | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | Hard | [cpp](solutions/array/0000-best-time-to-buy-and-sell-stock-iv.cpp) |
 |  | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | Hard | [cpp](solutions/array/0000-best-time-to-buy-and-sell-stock-iii.cpp) |
 |  | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | [cpp](solutions/array/0000-best-time-to-buy-and-sell-stock-ii.cpp) |
+|  | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | Medium | [cpp](solutions/array/0000-number-of-longest-increasing-subsequence.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Depth First Search (2)
