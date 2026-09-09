@@ -2,9 +2,9 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-09.
 
-**47** solutions - Easy 6 - Medium 25 - Hard 14
+**48** solutions - Easy 6 - Medium 25 - Hard 15
 
-## Array (27)
+## Array (28)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -34,6 +34,7 @@
 |  | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Medium | [cpp](solutions/array/0000-largest-divisible-subset.cpp) |
 |  | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | Medium | [cpp](solutions/array/0000-partition-array-for-maximum-sum.cpp) |
 |  | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | Hard | [cpp](solutions/array/0000-burst-balloons.cpp) |
+|  | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | Hard | [cpp](solutions/array/0000-minimum-cost-to-cut-a-stick.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Depth First Search (2)
