@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T04:27:21.149Z",
+ "updated": "2026-09-09T04:29:39.304Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -527,6 +527,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-minimum-cost-to-cut-a-stick.cpp",
    "solvedAt": "2026-09-09T04:27:18.234Z",
+   "lang": "cpp"
+  },
+  "count-commas-in-range-ii": {
+   "slug": "count-commas-in-range-ii",
+   "title": "Count Commas in Range II",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "math",
+   "ext": "cpp",
+   "path": "solutions/math/0000-count-commas-in-range-ii.cpp",
+   "solvedAt": "2026-09-09T04:29:36.608Z",
    "lang": "cpp"
   }
  }
