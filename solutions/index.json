@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-09T04:24:36.780Z",
+ "updated": "2026-09-09T04:25:01.558Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -483,6 +483,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-partition-array-for-maximum-sum.cpp",
    "solvedAt": "2026-09-09T04:24:33.737Z",
+   "lang": "cpp"
+  },
+  "palindrome-partitioning-ii": {
+   "slug": "palindrome-partitioning-ii",
+   "title": "Palindrome Partitioning II",
+   "qid": 0,
+   "difficulty": "Hard",
+   "topic": "string",
+   "ext": "cpp",
+   "path": "solutions/string/0000-palindrome-partitioning-ii.cpp",
+   "solvedAt": "2026-09-09T04:24:59.895Z",
    "lang": "cpp"
   }
  }
