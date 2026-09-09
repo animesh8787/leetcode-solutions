@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08T15:44:33.894Z",
+ "updated": "2026-09-09T04:24:36.780Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -472,6 +472,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-largest-divisible-subset.cpp",
    "solvedAt": "2026-09-08T15:44:30.985Z",
+   "lang": "cpp"
+  },
+  "partition-array-for-maximum-sum": {
+   "slug": "partition-array-for-maximum-sum",
+   "title": "Partition Array for Maximum Sum",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-partition-array-for-maximum-sum.cpp",
+   "solvedAt": "2026-09-09T04:24:33.737Z",
    "lang": "cpp"
   }
  }
