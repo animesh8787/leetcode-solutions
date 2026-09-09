@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-09.
 
-**48** solutions - Easy 6 - Medium 25 - Hard 15
+**49** solutions - Easy 6 - Medium 26 - Hard 15
 
 ## Array (28)
 
@@ -57,13 +57,14 @@
 |  | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | Hard | [cpp](solutions/hash-table/0000-maximum-number-of-non-overlapping-substrings.cpp) |
 |  | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | Medium | [cpp](solutions/hash-table/0000-most-stones-removed-with-same-row-or-column.cpp) |
 
-## Math (3)
+## Math (4)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
 |  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [cpp](solutions/math/0000-climbing-stairs.cpp) |
 |  | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | [cpp](solutions/math/0000-unique-paths.cpp) |
 |  | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | Easy | [cpp](solutions/math/0000-count-commas-in-range.cpp) |
+|  | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | Medium | [cpp](solutions/math/0000-count-commas-in-range-ii.cpp) |
 
 ## Misc (2)
 
