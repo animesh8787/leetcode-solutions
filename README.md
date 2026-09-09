@@ -2,9 +2,9 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-09.
 
-**46** solutions - Easy 6 - Medium 25 - Hard 13
+**47** solutions - Easy 6 - Medium 25 - Hard 14
 
-## Array (26)
+## Array (27)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -33,6 +33,7 @@
 |  | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | Medium | [cpp](solutions/array/0000-longest-string-chain.cpp) |
 |  | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Medium | [cpp](solutions/array/0000-largest-divisible-subset.cpp) |
 |  | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | Medium | [cpp](solutions/array/0000-partition-array-for-maximum-sum.cpp) |
+|  | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | Hard | [cpp](solutions/array/0000-burst-balloons.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Depth First Search (2)
