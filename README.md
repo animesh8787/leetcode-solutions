@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-09.
 
-**44** solutions - Easy 6 - Medium 25 - Hard 11
+**45** solutions - Easy 6 - Medium 25 - Hard 12
 
 ## Array (26)
 
@@ -70,7 +70,7 @@
 |  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | - | [cpp](solutions/misc/0000-find-the-index-of-the-first-occurrence-in-a-string.cpp) |
 |  | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | - | [cpp](solutions/misc/0000-maximum-matching-of-players-with-trainers.cpp) |
 
-## String (8)
+## String (9)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -82,4 +82,5 @@
 |  | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | Hard | [cpp](solutions/string/0000-minimum-insertion-steps-to-make-a-string-palindrome.cpp) |
 |  | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | Medium | [cpp](solutions/string/0000-longest-palindromic-subsequence.cpp) |
 |  | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | Hard | [cpp](solutions/string/0000-distinct-subsequences-ii.cpp) |
+|  | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | Hard | [cpp](solutions/string/0000-palindrome-partitioning-ii.cpp) |
 
