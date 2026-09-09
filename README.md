@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-09-08.
+> Auto-committed by Nexus OS. Updated 2026-09-09.
 
-**43** solutions - Easy 6 - Medium 24 - Hard 11
+**44** solutions - Easy 6 - Medium 25 - Hard 11
 
-## Array (25)
+## Array (26)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -32,6 +32,7 @@
 |  | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | Medium | [cpp](solutions/array/0000-number-of-longest-increasing-subsequence.cpp) |
 |  | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | Medium | [cpp](solutions/array/0000-longest-string-chain.cpp) |
 |  | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | Medium | [cpp](solutions/array/0000-largest-divisible-subset.cpp) |
+|  | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | Medium | [cpp](solutions/array/0000-partition-array-for-maximum-sum.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Depth First Search (2)
