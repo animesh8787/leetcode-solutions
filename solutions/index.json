@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T10:12:29.780Z",
+ "updated": "2026-09-10T10:12:52.252Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -626,6 +626,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-maximum-xor-with-an-element-from-array.cpp",
    "solvedAt": "2026-09-10T10:12:26.867Z",
+   "lang": "cpp"
+  },
+  "maximum-xor-of-two-numbers-in-an-array": {
+   "slug": "maximum-xor-of-two-numbers-in-an-array",
+   "title": "Maximum XOR of Two Numbers in an Array",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-maximum-xor-of-two-numbers-in-an-array.cpp",
+   "solvedAt": "2026-09-10T10:12:50.060Z",
    "lang": "cpp"
   }
  }
