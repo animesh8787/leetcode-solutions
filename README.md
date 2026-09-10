@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-10.
 
-**53** solutions - Easy 6 - Medium 29 - Hard 16
+**54** solutions - Easy 6 - Medium 30 - Hard 16
 
 ## Array (29)
 
@@ -74,7 +74,7 @@
 |  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | - | [cpp](solutions/misc/0000-find-the-index-of-the-first-occurrence-in-a-string.cpp) |
 |  | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | - | [cpp](solutions/misc/0000-maximum-matching-of-players-with-trainers.cpp) |
 
-## String (12)
+## String (13)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -90,6 +90,7 @@
 |  | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | Hard | [cpp](solutions/string/0000-parsing-a-boolean-expression.cpp) |
 |  | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/) | Hard | [cpp](solutions/string/0000-longest-happy-prefix.cpp) |
 |  | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | Medium | [cpp](solutions/string/0000-repeated-string-match.cpp) |
+|  | [Count and Say](https://leetcode.com/problems/count-and-say/) | Medium | [cpp](solutions/string/0000-count-and-say.cpp) |
 
 ## Tree (1)
 
