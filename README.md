@@ -2,9 +2,9 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-10.
 
-**56** solutions - Easy 6 - Medium 31 - Hard 17
+**57** solutions - Easy 6 - Medium 31 - Hard 18
 
-## Array (29)
+## Array (30)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -36,6 +36,7 @@
 |  | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | Hard | [cpp](solutions/array/0000-burst-balloons.cpp) |
 |  | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | Hard | [cpp](solutions/array/0000-minimum-cost-to-cut-a-stick.cpp) |
 |  | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | Medium | [cpp](solutions/array/0000-frequency-of-the-most-frequent-element.cpp) |
+|  | [Maximum XOR With an Element From Array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/) | Hard | [cpp](solutions/array/0000-maximum-xor-with-an-element-from-array.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Depth First Search (2)
