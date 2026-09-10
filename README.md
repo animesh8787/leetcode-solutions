@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-10.
 
-**55** solutions - Easy 6 - Medium 30 - Hard 17
+**56** solutions - Easy 6 - Medium 31 - Hard 17
 
 ## Array (29)
 
@@ -74,7 +74,7 @@
 |  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | - | [cpp](solutions/misc/0000-find-the-index-of-the-first-occurrence-in-a-string.cpp) |
 |  | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | - | [cpp](solutions/misc/0000-maximum-matching-of-players-with-trainers.cpp) |
 
-## String (14)
+## String (15)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -92,6 +92,7 @@
 |  | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | Medium | [cpp](solutions/string/0000-repeated-string-match.cpp) |
 |  | [Count and Say](https://leetcode.com/problems/count-and-say/) | Medium | [cpp](solutions/string/0000-count-and-say.cpp) |
 |  | [Count Palindromic Subsequences](https://leetcode.com/problems/count-palindromic-subsequences/) | Hard | [cpp](solutions/string/0000-count-palindromic-subsequences.cpp) |
+|  | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium | [cpp](solutions/string/0000-minimum-add-to-make-parentheses-valid.cpp) |
 
 ## Tree (1)
 
