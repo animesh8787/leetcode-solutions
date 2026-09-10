@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-10.
 
-**52** solutions - Easy 6 - Medium 28 - Hard 16
+**53** solutions - Easy 6 - Medium 29 - Hard 16
 
 ## Array (29)
 
@@ -90,4 +90,10 @@
 |  | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | Hard | [cpp](solutions/string/0000-parsing-a-boolean-expression.cpp) |
 |  | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/) | Hard | [cpp](solutions/string/0000-longest-happy-prefix.cpp) |
 |  | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | Medium | [cpp](solutions/string/0000-repeated-string-match.cpp) |
+
+## Tree (1)
+
+| # | Problem | Difficulty | Solution |
+|---|---|---|---|
+|  | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Medium | [cpp](solutions/tree/0000-count-nodes-equal-to-average-of-subtree.cpp) |
 
