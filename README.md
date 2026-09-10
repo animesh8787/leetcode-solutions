@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-10.
 
-**50** solutions - Easy 6 - Medium 27 - Hard 15
+**51** solutions - Easy 6 - Medium 27 - Hard 16
 
 ## Array (29)
 
@@ -74,7 +74,7 @@
 |  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | - | [cpp](solutions/misc/0000-find-the-index-of-the-first-occurrence-in-a-string.cpp) |
 |  | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | - | [cpp](solutions/misc/0000-maximum-matching-of-players-with-trainers.cpp) |
 
-## String (10)
+## String (11)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -88,4 +88,5 @@
 |  | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | Hard | [cpp](solutions/string/0000-distinct-subsequences-ii.cpp) |
 |  | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | Hard | [cpp](solutions/string/0000-palindrome-partitioning-ii.cpp) |
 |  | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | Hard | [cpp](solutions/string/0000-parsing-a-boolean-expression.cpp) |
+|  | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/) | Hard | [cpp](solutions/string/0000-longest-happy-prefix.cpp) |
 
