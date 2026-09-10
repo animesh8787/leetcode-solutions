@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T10:12:52.252Z",
+ "updated": "2026-09-10T10:13:01.792Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -637,6 +637,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-maximum-xor-of-two-numbers-in-an-array.cpp",
    "solvedAt": "2026-09-10T10:12:50.060Z",
+   "lang": "cpp"
+  },
+  "implement-trie-prefix-tree": {
+   "slug": "implement-trie-prefix-tree",
+   "title": "Implement Trie (Prefix Tree)",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "hash-table",
+   "ext": "cpp",
+   "path": "solutions/hash-table/0000-implement-trie-prefix-tree.cpp",
+   "solvedAt": "2026-09-10T10:12:59.824Z",
    "lang": "cpp"
   }
  }
