@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T10:13:01.792Z",
+ "updated": "2026-09-10T10:13:14.861Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -648,6 +648,17 @@
    "ext": "cpp",
    "path": "solutions/hash-table/0000-implement-trie-prefix-tree.cpp",
    "solvedAt": "2026-09-10T10:12:59.824Z",
+   "lang": "cpp"
+  },
+  "count-square-submatrices-with-all-ones": {
+   "slug": "count-square-submatrices-with-all-ones",
+   "title": "Count Square Submatrices with All Ones",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-count-square-submatrices-with-all-ones.cpp",
+   "solvedAt": "2026-09-10T10:13:12.703Z",
    "lang": "cpp"
   }
  }
