@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T08:51:22.230Z",
+ "updated": "2026-09-10T08:51:40.478Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -560,6 +560,17 @@
    "ext": "cpp",
    "path": "solutions/string/0000-longest-happy-prefix.cpp",
    "solvedAt": "2026-09-10T08:51:19.949Z",
+   "lang": "cpp"
+  },
+  "repeated-string-match": {
+   "slug": "repeated-string-match",
+   "title": "Repeated String Match",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "string",
+   "ext": "cpp",
+   "path": "solutions/string/0000-repeated-string-match.cpp",
+   "solvedAt": "2026-09-10T08:51:36.834Z",
    "lang": "cpp"
   }
  }
