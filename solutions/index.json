@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T08:54:14.379Z",
+ "updated": "2026-09-10T08:57:16.245Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -593,6 +593,17 @@
    "ext": "cpp",
    "path": "solutions/string/0000-count-and-say.cpp",
    "solvedAt": "2026-09-10T08:54:10.784Z",
+   "lang": "cpp"
+  },
+  "count-palindromic-subsequences": {
+   "slug": "count-palindromic-subsequences",
+   "title": "Count Palindromic Subsequences",
+   "qid": 0,
+   "difficulty": "Hard",
+   "topic": "string",
+   "ext": "cpp",
+   "path": "solutions/string/0000-count-palindromic-subsequences.cpp",
+   "solvedAt": "2026-09-10T08:57:08.773Z",
    "lang": "cpp"
   }
  }
