@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T08:50:31.216Z",
+ "updated": "2026-09-10T08:51:22.230Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -549,6 +549,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-frequency-of-the-most-frequent-element.cpp",
    "solvedAt": "2026-09-10T08:50:25.523Z",
+   "lang": "cpp"
+  },
+  "longest-happy-prefix": {
+   "slug": "longest-happy-prefix",
+   "title": "Longest Happy Prefix",
+   "qid": 0,
+   "difficulty": "Hard",
+   "topic": "string",
+   "ext": "cpp",
+   "path": "solutions/string/0000-longest-happy-prefix.cpp",
+   "solvedAt": "2026-09-10T08:51:19.949Z",
    "lang": "cpp"
   }
  }
