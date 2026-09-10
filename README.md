@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-09-09.
+> Auto-committed by Nexus OS. Updated 2026-09-10.
 
-**49** solutions - Easy 6 - Medium 26 - Hard 15
+**50** solutions - Easy 6 - Medium 27 - Hard 15
 
-## Array (28)
+## Array (29)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -35,6 +35,7 @@
 |  | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | Medium | [cpp](solutions/array/0000-partition-array-for-maximum-sum.cpp) |
 |  | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | Hard | [cpp](solutions/array/0000-burst-balloons.cpp) |
 |  | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | Hard | [cpp](solutions/array/0000-minimum-cost-to-cut-a-stick.cpp) |
+|  | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | Medium | [cpp](solutions/array/0000-frequency-of-the-most-frequent-element.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Depth First Search (2)
