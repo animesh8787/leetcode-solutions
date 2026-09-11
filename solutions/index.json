@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10T10:13:14.861Z",
+ "updated": "2026-09-11T09:55:43.093Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -659,6 +659,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-count-square-submatrices-with-all-ones.cpp",
    "solvedAt": "2026-09-10T10:13:12.703Z",
+   "lang": "cpp"
+  },
+  "unique-3-digit-even-numbers": {
+   "slug": "unique-3-digit-even-numbers",
+   "title": "Unique 3-Digit Even Numbers",
+   "qid": 0,
+   "difficulty": "Easy",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-unique-3-digit-even-numbers.cpp",
+   "solvedAt": "2026-09-11T09:55:39.099Z",
    "lang": "cpp"
   }
  }
