@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11T09:55:43.093Z",
+ "updated": "2026-09-11T09:56:15.815Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -670,6 +670,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-unique-3-digit-even-numbers.cpp",
    "solvedAt": "2026-09-11T09:55:39.099Z",
+   "lang": "cpp"
+  },
+  "substring-with-concatenation-of-all-words": {
+   "slug": "substring-with-concatenation-of-all-words",
+   "title": "Substring with Concatenation of All Words",
+   "qid": 0,
+   "difficulty": "Hard",
+   "topic": "hash-table",
+   "ext": "cpp",
+   "path": "solutions/hash-table/0000-substring-with-concatenation-of-all-words.cpp",
+   "solvedAt": "2026-09-11T09:56:13.922Z",
    "lang": "cpp"
   }
  }
