@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-11.
 
-**61** solutions - Easy 7 - Medium 34 - Hard 18
+**62** solutions - Easy 7 - Medium 34 - Hard 19
 
 ## Array (33)
 
@@ -55,13 +55,14 @@
 |---|---|---|---|
 | 1976 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | Medium | [cpp](solutions/dynamic-programming/1976-number-of-ways-to-arrive-at-destination.cpp) |
 
-## Hash Table (3)
+## Hash Table (4)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
 |  | [Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | Hard | [cpp](solutions/hash-table/0000-maximum-number-of-non-overlapping-substrings.cpp) |
 |  | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | Medium | [cpp](solutions/hash-table/0000-most-stones-removed-with-same-row-or-column.cpp) |
 |  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [cpp](solutions/hash-table/0000-implement-trie-prefix-tree.cpp) |
+|  | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard | [cpp](solutions/hash-table/0000-substring-with-concatenation-of-all-words.cpp) |
 
 ## Math (4)
 
