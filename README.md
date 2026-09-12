@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-09-11.
+> Auto-committed by Nexus OS. Updated 2026-09-12.
 
-**62** solutions - Easy 7 - Medium 34 - Hard 19
+**63** solutions - Easy 7 - Medium 34 - Hard 20
 
-## Array (33)
+## Array (34)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -40,6 +40,7 @@
 |  | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | Medium | [cpp](solutions/array/0000-maximum-xor-of-two-numbers-in-an-array.cpp) |
 |  | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Medium | [cpp](solutions/array/0000-count-square-submatrices-with-all-ones.cpp) |
 |  | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Easy | [cpp](solutions/array/0000-unique-3-digit-even-numbers.cpp) |
+|  | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | Hard | [cpp](solutions/array/0000-maximum-score-of-non-overlapping-intervals.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Depth First Search (2)
