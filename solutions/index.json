@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11T09:56:15.815Z",
+ "updated": "2026-09-12T05:32:44.646Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -681,6 +681,17 @@
    "ext": "cpp",
    "path": "solutions/hash-table/0000-substring-with-concatenation-of-all-words.cpp",
    "solvedAt": "2026-09-11T09:56:13.922Z",
+   "lang": "cpp"
+  },
+  "maximum-score-of-non-overlapping-intervals": {
+   "slug": "maximum-score-of-non-overlapping-intervals",
+   "title": "Maximum Score of Non-overlapping Intervals",
+   "qid": 0,
+   "difficulty": "Hard",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-maximum-score-of-non-overlapping-intervals.cpp",
+   "solvedAt": "2026-09-12T05:32:42.061Z",
    "lang": "cpp"
   }
  }
