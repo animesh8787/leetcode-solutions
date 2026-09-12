@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12T05:32:44.646Z",
+ "updated": "2026-09-12T05:33:46.866Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -692,6 +692,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-maximum-score-of-non-overlapping-intervals.cpp",
    "solvedAt": "2026-09-12T05:32:42.061Z",
+   "lang": "cpp"
+  },
+  "longest-valid-parentheses": {
+   "slug": "longest-valid-parentheses",
+   "title": "Longest Valid Parentheses",
+   "qid": 0,
+   "difficulty": "Hard",
+   "topic": "string",
+   "ext": "cpp",
+   "path": "solutions/string/0000-longest-valid-parentheses.cpp",
+   "solvedAt": "2026-09-12T05:33:44.158Z",
    "lang": "cpp"
   }
  }
