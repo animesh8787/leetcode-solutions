@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-09-12.
+> Auto-committed by Nexus OS. Updated 2026-09-13.
 
-**64** solutions - Easy 7 - Medium 34 - Hard 21
+**65** solutions - Easy 7 - Medium 35 - Hard 21
 
-## Array (34)
+## Array (35)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -41,6 +41,7 @@
 |  | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Medium | [cpp](solutions/array/0000-count-square-submatrices-with-all-ones.cpp) |
 |  | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Easy | [cpp](solutions/array/0000-unique-3-digit-even-numbers.cpp) |
 |  | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | Hard | [cpp](solutions/array/0000-maximum-score-of-non-overlapping-intervals.cpp) |
+|  | [Image Overlap](https://leetcode.com/problems/image-overlap/) | Medium | [cpp](solutions/array/0000-image-overlap.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Depth First Search (2)
