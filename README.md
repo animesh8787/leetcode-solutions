@@ -2,9 +2,9 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-13.
 
-**65** solutions - Easy 7 - Medium 35 - Hard 21
+**66** solutions - Easy 7 - Medium 36 - Hard 21
 
-## Array (35)
+## Array (36)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -42,6 +42,7 @@
 |  | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | Easy | [cpp](solutions/array/0000-unique-3-digit-even-numbers.cpp) |
 |  | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | Hard | [cpp](solutions/array/0000-maximum-score-of-non-overlapping-intervals.cpp) |
 |  | [Image Overlap](https://leetcode.com/problems/image-overlap/) | Medium | [cpp](solutions/array/0000-image-overlap.cpp) |
+|  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [cpp](solutions/array/0000-valid-sudoku.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Depth First Search (2)
