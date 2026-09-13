@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12T05:33:46.866Z",
+ "updated": "2026-09-13T08:47:29.318Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -703,6 +703,17 @@
    "ext": "cpp",
    "path": "solutions/string/0000-longest-valid-parentheses.cpp",
    "solvedAt": "2026-09-12T05:33:44.158Z",
+   "lang": "cpp"
+  },
+  "image-overlap": {
+   "slug": "image-overlap",
+   "title": "Image Overlap",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-image-overlap.cpp",
+   "solvedAt": "2026-09-13T08:47:24.804Z",
    "lang": "cpp"
   }
  }
