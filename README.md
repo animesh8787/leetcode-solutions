@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-09-13.
+> Auto-committed by Nexus OS. Updated 2026-09-14.
 
-**66** solutions - Easy 7 - Medium 36 - Hard 21
+**67** solutions - Easy 7 - Medium 36 - Hard 22
 
-## Array (36)
+## Array (37)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -43,6 +43,7 @@
 |  | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | Hard | [cpp](solutions/array/0000-maximum-score-of-non-overlapping-intervals.cpp) |
 |  | [Image Overlap](https://leetcode.com/problems/image-overlap/) | Medium | [cpp](solutions/array/0000-image-overlap.cpp) |
 |  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [cpp](solutions/array/0000-valid-sudoku.cpp) |
+|  | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [cpp](solutions/array/0000-first-missing-positive.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Depth First Search (2)
