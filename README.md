@@ -2,9 +2,9 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-15.
 
-**68** solutions - Easy 7 - Medium 36 - Hard 23
+**69** solutions - Easy 7 - Medium 37 - Hard 23
 
-## Array (37)
+## Array (38)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -44,6 +44,7 @@
 |  | [Image Overlap](https://leetcode.com/problems/image-overlap/) | Medium | [cpp](solutions/array/0000-image-overlap.cpp) |
 |  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [cpp](solutions/array/0000-valid-sudoku.cpp) |
 |  | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [cpp](solutions/array/0000-first-missing-positive.cpp) |
+|  | [Permutations](https://leetcode.com/problems/permutations/) | Medium | [cpp](solutions/array/0000-permutations.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Depth First Search (2)
