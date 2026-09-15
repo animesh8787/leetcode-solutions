@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-09-14.
+> Auto-committed by Nexus OS. Updated 2026-09-15.
 
-**67** solutions - Easy 7 - Medium 36 - Hard 22
+**68** solutions - Easy 7 - Medium 36 - Hard 23
 
 ## Array (37)
 
@@ -110,4 +110,10 @@
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
 |  | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Medium | [cpp](solutions/tree/0000-count-nodes-equal-to-average-of-subtree.cpp) |
+
+## Two Pointers (1)
+
+| # | Problem | Difficulty | Solution |
+|---|---|---|---|
+|  | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | [cpp](solutions/two-pointers/0000-maximum-number-of-non-overlapping-palindrome-substrings.cpp) |
 
