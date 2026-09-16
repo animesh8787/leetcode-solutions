@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-16.
 
-**70** solutions - Easy 7 - Medium 38 - Hard 23
+**71** solutions - Easy 7 - Medium 39 - Hard 23
 
 ## Array (38)
 
@@ -69,7 +69,7 @@
 |  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [cpp](solutions/hash-table/0000-implement-trie-prefix-tree.cpp) |
 |  | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard | [cpp](solutions/hash-table/0000-substring-with-concatenation-of-all-words.cpp) |
 
-## Math (5)
+## Math (6)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -78,6 +78,7 @@
 |  | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | Easy | [cpp](solutions/math/0000-count-commas-in-range.cpp) |
 |  | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | Medium | [cpp](solutions/math/0000-count-commas-in-range-ii.cpp) |
 |  | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | Medium | [cpp](solutions/math/0000-number-of-sets-of-k-non-overlapping-line-segments.cpp) |
+|  | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | [cpp](solutions/math/0000-multiply-strings.cpp) |
 
 ## Misc (2)
 
