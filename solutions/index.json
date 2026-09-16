@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15T09:06:23.844Z",
+ "updated": "2026-09-16T02:46:21.420Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -758,6 +758,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-permutations.cpp",
    "solvedAt": "2026-09-15T09:06:20.507Z",
+   "lang": "cpp"
+  },
+  "number-of-sets-of-k-non-overlapping-line-segments": {
+   "slug": "number-of-sets-of-k-non-overlapping-line-segments",
+   "title": "Number of Sets of K Non-Overlapping Line Segments",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "math",
+   "ext": "cpp",
+   "path": "solutions/math/0000-number-of-sets-of-k-non-overlapping-line-segments.cpp",
+   "solvedAt": "2026-09-16T02:46:17.451Z",
    "lang": "cpp"
   }
  }
