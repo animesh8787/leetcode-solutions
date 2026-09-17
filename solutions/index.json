@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-17T09:18:55.027Z",
+ "updated": "2026-09-17T09:19:06.884Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -791,6 +791,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-find-two-non-overlapping-sub-arrays-each-with-target-sum.cpp",
    "solvedAt": "2026-09-17T09:18:51.866Z",
+   "lang": "cpp"
+  },
+  "permutations-ii": {
+   "slug": "permutations-ii",
+   "title": "Permutations II",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-permutations-ii.cpp",
+   "solvedAt": "2026-09-17T09:19:04.944Z",
    "lang": "cpp"
   }
  }
