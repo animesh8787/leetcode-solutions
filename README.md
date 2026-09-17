@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-09-16.
+> Auto-committed by Nexus OS. Updated 2026-09-17.
 
-**71** solutions - Easy 7 - Medium 39 - Hard 23
+**72** solutions - Easy 7 - Medium 40 - Hard 23
 
-## Array (38)
+## Array (39)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -45,6 +45,7 @@
 |  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [cpp](solutions/array/0000-valid-sudoku.cpp) |
 |  | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [cpp](solutions/array/0000-first-missing-positive.cpp) |
 |  | [Permutations](https://leetcode.com/problems/permutations/) | Medium | [cpp](solutions/array/0000-permutations.cpp) |
+|  | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium | [cpp](solutions/array/0000-find-two-non-overlapping-sub-arrays-each-with-target-sum.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Depth First Search (2)
