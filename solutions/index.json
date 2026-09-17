@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16T02:47:15.398Z",
+ "updated": "2026-09-17T09:18:55.027Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -780,6 +780,17 @@
    "ext": "cpp",
    "path": "solutions/math/0000-multiply-strings.cpp",
    "solvedAt": "2026-09-16T02:47:12.450Z",
+   "lang": "cpp"
+  },
+  "find-two-non-overlapping-sub-arrays-each-with-target-sum": {
+   "slug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
+   "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-find-two-non-overlapping-sub-arrays-each-with-target-sum.cpp",
+   "solvedAt": "2026-09-17T09:18:51.866Z",
    "lang": "cpp"
   }
  }
