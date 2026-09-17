@@ -2,9 +2,9 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-17.
 
-**72** solutions - Easy 7 - Medium 40 - Hard 23
+**73** solutions - Easy 7 - Medium 41 - Hard 23
 
-## Array (39)
+## Array (40)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -46,6 +46,7 @@
 |  | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [cpp](solutions/array/0000-first-missing-positive.cpp) |
 |  | [Permutations](https://leetcode.com/problems/permutations/) | Medium | [cpp](solutions/array/0000-permutations.cpp) |
 |  | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium | [cpp](solutions/array/0000-find-two-non-overlapping-sub-arrays-each-with-target-sum.cpp) |
+|  | [Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium | [cpp](solutions/array/0000-permutations-ii.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Depth First Search (2)
