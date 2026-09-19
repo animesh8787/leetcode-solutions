@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-19.
 
-**74** solutions - Easy 7 - Medium 42 - Hard 23
+**75** solutions - Easy 8 - Medium 42 - Hard 23
 
 ## Array (40)
 
@@ -90,7 +90,7 @@
 |  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | - | [cpp](solutions/misc/0000-find-the-index-of-the-first-occurrence-in-a-string.cpp) |
 |  | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | - | [cpp](solutions/misc/0000-maximum-matching-of-players-with-trainers.cpp) |
 
-## String (16)
+## String (17)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -110,6 +110,7 @@
 |  | [Count Palindromic Subsequences](https://leetcode.com/problems/count-palindromic-subsequences/) | Hard | [cpp](solutions/string/0000-count-palindromic-subsequences.cpp) |
 |  | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium | [cpp](solutions/string/0000-minimum-add-to-make-parentheses-valid.cpp) |
 |  | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | [cpp](solutions/string/0000-longest-valid-parentheses.cpp) |
+|  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [cpp](solutions/string/0000-length-of-last-word.cpp) |
 
 ## Tree (1)
 
