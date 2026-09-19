@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-09-17.
+> Auto-committed by Nexus OS. Updated 2026-09-19.
 
-**73** solutions - Easy 7 - Medium 41 - Hard 23
+**74** solutions - Easy 7 - Medium 42 - Hard 23
 
 ## Array (40)
 
@@ -71,7 +71,7 @@
 |  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [cpp](solutions/hash-table/0000-implement-trie-prefix-tree.cpp) |
 |  | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard | [cpp](solutions/hash-table/0000-substring-with-concatenation-of-all-words.cpp) |
 
-## Math (6)
+## Math (7)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -81,6 +81,7 @@
 |  | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | Medium | [cpp](solutions/math/0000-count-commas-in-range-ii.cpp) |
 |  | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | Medium | [cpp](solutions/math/0000-number-of-sets-of-k-non-overlapping-line-segments.cpp) |
 |  | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | [cpp](solutions/math/0000-multiply-strings.cpp) |
+|  | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | Medium | [cpp](solutions/math/0000-circle-and-rectangle-overlapping.cpp) |
 
 ## Misc (2)
 
