@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T05:58:39.886Z",
+ "updated": "2026-09-20T05:58:59.114Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -835,6 +835,17 @@
    "ext": "cpp",
    "path": "solutions/string/0000-reverse-degree-of-a-string.cpp",
    "solvedAt": "2026-09-20T05:58:37.280Z",
+   "lang": "cpp"
+  },
+  "spiral-matrix-ii": {
+   "slug": "spiral-matrix-ii",
+   "title": "Spiral Matrix II",
+   "qid": 0,
+   "difficulty": "",
+   "topic": "misc",
+   "ext": "cpp",
+   "path": "solutions/misc/0000-spiral-matrix-ii.cpp",
+   "solvedAt": "2026-09-20T05:58:57.825Z",
    "lang": "cpp"
   }
  }
