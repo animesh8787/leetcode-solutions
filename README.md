@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-20.
 
-**76** solutions - Easy 9 - Medium 42 - Hard 23
+**77** solutions - Easy 9 - Medium 42 - Hard 23
 
 ## Array (40)
 
@@ -83,12 +83,13 @@
 |  | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | [cpp](solutions/math/0000-multiply-strings.cpp) |
 |  | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | Medium | [cpp](solutions/math/0000-circle-and-rectangle-overlapping.cpp) |
 
-## Misc (2)
+## Misc (3)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
 |  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | - | [cpp](solutions/misc/0000-find-the-index-of-the-first-occurrence-in-a-string.cpp) |
 |  | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | - | [cpp](solutions/misc/0000-maximum-matching-of-players-with-trainers.cpp) |
+|  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | - | [cpp](solutions/misc/0000-spiral-matrix-ii.cpp) |
 
 ## String (18)
 
