@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-09-19.
+> Auto-committed by Nexus OS. Updated 2026-09-20.
 
-**75** solutions - Easy 8 - Medium 42 - Hard 23
+**76** solutions - Easy 9 - Medium 42 - Hard 23
 
 ## Array (40)
 
@@ -90,7 +90,7 @@
 |  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | - | [cpp](solutions/misc/0000-find-the-index-of-the-first-occurrence-in-a-string.cpp) |
 |  | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | - | [cpp](solutions/misc/0000-maximum-matching-of-players-with-trainers.cpp) |
 
-## String (17)
+## String (18)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -111,6 +111,7 @@
 |  | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium | [cpp](solutions/string/0000-minimum-add-to-make-parentheses-valid.cpp) |
 |  | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | [cpp](solutions/string/0000-longest-valid-parentheses.cpp) |
 |  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [cpp](solutions/string/0000-length-of-last-word.cpp) |
+|  | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | Easy | [cpp](solutions/string/0000-reverse-degree-of-a-string.cpp) |
 
 ## Tree (1)
 
