@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-09-21.
+> Auto-committed by Nexus OS. Updated 2026-09-22.
 
-**78** solutions - Easy 9 - Medium 43 - Hard 23
+**79** solutions - Easy 9 - Medium 43 - Hard 24
 
-## Array (41)
+## Array (42)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -48,6 +48,7 @@
 |  | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium | [cpp](solutions/array/0000-find-two-non-overlapping-sub-arrays-each-with-target-sum.cpp) |
 |  | [Permutations II](https://leetcode.com/problems/permutations-ii/) | Medium | [cpp](solutions/array/0000-permutations-ii.cpp) |
 |  | [Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i/) | Medium | [cpp](solutions/array/0000-find-x-value-of-array-i.cpp) |
+|  | [Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii/) | Hard | [cpp](solutions/array/0000-find-x-value-of-array-ii.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Depth First Search (2)
