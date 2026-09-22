@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-22.
 
-**79** solutions - Easy 9 - Medium 43 - Hard 24
+**80** solutions - Easy 9 - Medium 43 - Hard 25
 
 ## Array (42)
 
@@ -73,7 +73,7 @@
 |  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [cpp](solutions/hash-table/0000-implement-trie-prefix-tree.cpp) |
 |  | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard | [cpp](solutions/hash-table/0000-substring-with-concatenation-of-all-words.cpp) |
 
-## Math (7)
+## Math (8)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -84,6 +84,7 @@
 |  | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | Medium | [cpp](solutions/math/0000-number-of-sets-of-k-non-overlapping-line-segments.cpp) |
 |  | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | [cpp](solutions/math/0000-multiply-strings.cpp) |
 |  | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | Medium | [cpp](solutions/math/0000-circle-and-rectangle-overlapping.cpp) |
+|  | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | Hard | [cpp](solutions/math/0000-permutation-sequence.cpp) |
 
 ## Misc (3)
 
