@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-22T19:29:43.742Z",
+ "updated": "2026-09-22T19:44:35.478Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -868,6 +868,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-find-x-value-of-array-ii.cpp",
    "solvedAt": "2026-09-22T19:29:40.352Z",
+   "lang": "cpp"
+  },
+  "permutation-sequence": {
+   "slug": "permutation-sequence",
+   "title": "Permutation Sequence",
+   "qid": 0,
+   "difficulty": "Hard",
+   "topic": "math",
+   "ext": "cpp",
+   "path": "solutions/math/0000-permutation-sequence.cpp",
+   "solvedAt": "2026-09-22T19:44:32.184Z",
    "lang": "cpp"
   }
  }
