@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T12:34:02.425Z",
+ "updated": "2026-09-23T12:34:09.641Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -890,6 +890,17 @@
    "ext": "cpp",
    "path": "solutions/string/0000-valid-number.cpp",
    "solvedAt": "2026-09-23T12:33:59.280Z",
+   "lang": "cpp"
+  },
+  "minimum-operations-to-reduce-x-to-zero": {
+   "slug": "minimum-operations-to-reduce-x-to-zero",
+   "title": "Minimum Operations to Reduce X to Zero",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-minimum-operations-to-reduce-x-to-zero.cpp",
+   "solvedAt": "2026-09-23T12:34:07.840Z",
    "lang": "cpp"
   }
  }
