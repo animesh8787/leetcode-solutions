@@ -2,9 +2,9 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-23.
 
-**82** solutions - Easy 9 - Medium 44 - Hard 26
+**83** solutions - Easy 10 - Medium 44 - Hard 26
 
-## Array (43)
+## Array (44)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -50,6 +50,7 @@
 |  | [Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i/) | Medium | [cpp](solutions/array/0000-find-x-value-of-array-i.cpp) |
 |  | [Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii/) | Hard | [cpp](solutions/array/0000-find-x-value-of-array-ii.cpp) |
 |  | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium | [cpp](solutions/array/0000-minimum-operations-to-reduce-x-to-zero.cpp) |
+|  | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [cpp](solutions/array/0000-plus-one.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Depth First Search (2)
