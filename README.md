@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-09-22.
+> Auto-committed by Nexus OS. Updated 2026-09-23.
 
-**80** solutions - Easy 9 - Medium 43 - Hard 25
+**81** solutions - Easy 9 - Medium 43 - Hard 26
 
 ## Array (42)
 
@@ -94,7 +94,7 @@
 |  | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | - | [cpp](solutions/misc/0000-maximum-matching-of-players-with-trainers.cpp) |
 |  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | - | [cpp](solutions/misc/0000-spiral-matrix-ii.cpp) |
 
-## String (18)
+## String (19)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -116,6 +116,7 @@
 |  | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | [cpp](solutions/string/0000-longest-valid-parentheses.cpp) |
 |  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [cpp](solutions/string/0000-length-of-last-word.cpp) |
 |  | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | Easy | [cpp](solutions/string/0000-reverse-degree-of-a-string.cpp) |
+|  | [Valid Number](https://leetcode.com/problems/valid-number/) | Hard | [cpp](solutions/string/0000-valid-number.cpp) |
 
 ## Tree (1)
 
