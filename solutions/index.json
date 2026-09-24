@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T08:17:36.038Z",
+ "updated": "2026-09-24T08:17:42.845Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -956,6 +956,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-group-anagrams.cpp",
    "solvedAt": "2026-09-24T08:17:33.321Z",
+   "lang": "cpp"
+  },
+  "n-queens-ii": {
+   "slug": "n-queens-ii",
+   "title": "N-Queens II",
+   "qid": 0,
+   "difficulty": "Hard",
+   "topic": "backtracking",
+   "ext": "cpp",
+   "path": "solutions/backtracking/0000-n-queens-ii.cpp",
+   "solvedAt": "2026-09-24T08:17:40.566Z",
    "lang": "cpp"
   }
  }
