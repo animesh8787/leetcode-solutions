@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T08:18:11.548Z",
+ "updated": "2026-09-24T08:18:17.571Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -978,6 +978,17 @@
    "ext": "cpp",
    "path": "solutions/linked-list/0000-add-two-numbers.cpp",
    "solvedAt": "2026-09-24T08:17:58.875Z",
+   "lang": "cpp"
+  },
+  "longest-substring-without-repeating-characters": {
+   "slug": "longest-substring-without-repeating-characters",
+   "title": "Longest Substring Without Repeating Characters",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "hash-table",
+   "ext": "cpp",
+   "path": "solutions/hash-table/0000-longest-substring-without-repeating-characters.cpp",
+   "solvedAt": "2026-09-24T08:18:15.804Z",
    "lang": "cpp"
   }
  }
