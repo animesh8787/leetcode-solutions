@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T07:15:13.587Z",
+ "updated": "2026-09-24T07:17:42.194Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -934,6 +934,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-two-sum.cpp",
    "solvedAt": "2026-09-24T07:15:10.258Z",
+   "lang": "cpp"
+  },
+  "longest-palindromic-substring": {
+   "slug": "longest-palindromic-substring",
+   "title": "Longest Palindromic Substring",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "two-pointers",
+   "ext": "cpp",
+   "path": "solutions/two-pointers/0000-longest-palindromic-substring.cpp",
+   "solvedAt": "2026-09-24T07:17:39.284Z",
    "lang": "cpp"
   }
  }
