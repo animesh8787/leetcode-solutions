@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T08:18:20.167Z",
+ "updated": "2026-09-24T08:18:24.950Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -989,6 +989,17 @@
    "ext": "cpp",
    "path": "solutions/hash-table/0000-longest-substring-without-repeating-characters.cpp",
    "solvedAt": "2026-09-24T08:18:15.804Z",
+   "lang": "cpp"
+  },
+  "median-of-two-sorted-arrays": {
+   "slug": "median-of-two-sorted-arrays",
+   "title": "Median of Two Sorted Arrays",
+   "qid": 0,
+   "difficulty": "Hard",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-median-of-two-sorted-arrays.cpp",
+   "solvedAt": "2026-09-24T08:18:23.185Z",
    "lang": "cpp"
   }
  }
