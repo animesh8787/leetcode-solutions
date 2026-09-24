@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-24.
 
-**87** solutions - Easy 12 - Medium 46 - Hard 26
+**88** solutions - Easy 12 - Medium 46 - Hard 27
 
 ## Array (47)
 
@@ -55,6 +55,12 @@
 |  | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [cpp](solutions/array/0000-two-sum.cpp) |
 |  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [cpp](solutions/array/0000-group-anagrams.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
+
+## Backtracking (1)
+
+| # | Problem | Difficulty | Solution |
+|---|---|---|---|
+|  | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | Hard | [cpp](solutions/backtracking/0000-n-queens-ii.cpp) |
 
 ## Depth First Search (2)
 
