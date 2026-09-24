@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T08:19:03.805Z",
+ "updated": "2026-09-24T08:19:39.529Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1010,7 +1010,7 @@
    "topic": "math",
    "ext": "cpp",
    "path": "solutions/math/0000-rectangle-overlap.cpp",
-   "solvedAt": "2026-09-24T08:19:00.689Z",
+   "solvedAt": "2026-09-24T08:19:37.545Z",
    "lang": "cpp"
   }
  }
