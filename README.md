@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-24.
 
-**88** solutions - Easy 12 - Medium 46 - Hard 27
+**89** solutions - Easy 12 - Medium 47 - Hard 27
 
 ## Array (47)
 
@@ -83,6 +83,12 @@
 |  | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | Medium | [cpp](solutions/hash-table/0000-most-stones-removed-with-same-row-or-column.cpp) |
 |  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [cpp](solutions/hash-table/0000-implement-trie-prefix-tree.cpp) |
 |  | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard | [cpp](solutions/hash-table/0000-substring-with-concatenation-of-all-words.cpp) |
+
+## Linked List (1)
+
+| # | Problem | Difficulty | Solution |
+|---|---|---|---|
+|  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [cpp](solutions/linked-list/0000-add-two-numbers.cpp) |
 
 ## Math (8)
 
