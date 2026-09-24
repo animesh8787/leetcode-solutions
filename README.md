@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-24.
 
-**89** solutions - Easy 12 - Medium 47 - Hard 27
+**90** solutions - Easy 12 - Medium 48 - Hard 27
 
 ## Array (47)
 
@@ -75,7 +75,7 @@
 |---|---|---|---|
 | 1976 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | Medium | [cpp](solutions/dynamic-programming/1976-number-of-ways-to-arrive-at-destination.cpp) |
 
-## Hash Table (4)
+## Hash Table (5)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -83,6 +83,7 @@
 |  | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | Medium | [cpp](solutions/hash-table/0000-most-stones-removed-with-same-row-or-column.cpp) |
 |  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [cpp](solutions/hash-table/0000-implement-trie-prefix-tree.cpp) |
 |  | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard | [cpp](solutions/hash-table/0000-substring-with-concatenation-of-all-words.cpp) |
+|  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [cpp](solutions/hash-table/0000-longest-substring-without-repeating-characters.cpp) |
 
 ## Linked List (1)
 
