@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T08:17:42.845Z",
+ "updated": "2026-09-24T08:17:53.652Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -933,7 +933,7 @@
    "topic": "array",
    "ext": "cpp",
    "path": "solutions/array/0000-two-sum.cpp",
-   "solvedAt": "2026-09-24T07:15:10.258Z",
+   "solvedAt": "2026-09-24T08:17:51.828Z",
    "lang": "cpp"
   },
   "longest-palindromic-substring": {
