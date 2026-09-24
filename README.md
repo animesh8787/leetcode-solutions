@@ -2,9 +2,9 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-24.
 
-**90** solutions - Easy 12 - Medium 48 - Hard 27
+**91** solutions - Easy 12 - Medium 48 - Hard 28
 
-## Array (47)
+## Array (48)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -54,6 +54,7 @@
 |  | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | [cpp](solutions/array/0000-smallest-index-with-digit-sum-equal-to-index.cpp) |
 |  | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [cpp](solutions/array/0000-two-sum.cpp) |
 |  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [cpp](solutions/array/0000-group-anagrams.cpp) |
+|  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [cpp](solutions/array/0000-median-of-two-sorted-arrays.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Backtracking (1)
