@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T08:17:53.652Z",
+ "updated": "2026-09-24T08:18:00.945Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -967,6 +967,17 @@
    "ext": "cpp",
    "path": "solutions/backtracking/0000-n-queens-ii.cpp",
    "solvedAt": "2026-09-24T08:17:40.566Z",
+   "lang": "cpp"
+  },
+  "add-two-numbers": {
+   "slug": "add-two-numbers",
+   "title": "Add Two Numbers",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "linked-list",
+   "ext": "cpp",
+   "path": "solutions/linked-list/0000-add-two-numbers.cpp",
+   "solvedAt": "2026-09-24T08:17:58.875Z",
    "lang": "cpp"
   }
  }
