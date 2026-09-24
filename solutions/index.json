@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T08:18:24.950Z",
+ "updated": "2026-09-24T08:19:03.805Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1000,6 +1000,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-median-of-two-sorted-arrays.cpp",
    "solvedAt": "2026-09-24T08:18:23.185Z",
+   "lang": "cpp"
+  },
+  "rectangle-overlap": {
+   "slug": "rectangle-overlap",
+   "title": "Rectangle Overlap",
+   "qid": 0,
+   "difficulty": "Easy",
+   "topic": "math",
+   "ext": "cpp",
+   "path": "solutions/math/0000-rectangle-overlap.cpp",
+   "solvedAt": "2026-09-24T08:19:00.689Z",
    "lang": "cpp"
   }
  }
