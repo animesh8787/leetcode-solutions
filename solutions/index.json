@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23T12:34:50.107Z",
+ "updated": "2026-09-24T07:11:26.681Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -912,6 +912,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-plus-one.cpp",
    "solvedAt": "2026-09-23T12:34:47.546Z",
+   "lang": "cpp"
+  },
+  "smallest-index-with-digit-sum-equal-to-index": {
+   "slug": "smallest-index-with-digit-sum-equal-to-index",
+   "title": "Smallest Index With Digit Sum Equal to Index",
+   "qid": 0,
+   "difficulty": "Easy",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-smallest-index-with-digit-sum-equal-to-index.cpp",
+   "solvedAt": "2026-09-24T07:11:23.581Z",
    "lang": "cpp"
   }
  }
