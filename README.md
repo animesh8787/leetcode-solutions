@@ -2,9 +2,9 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-24.
 
-**84** solutions - Easy 11 - Medium 44 - Hard 26
+**85** solutions - Easy 12 - Medium 44 - Hard 26
 
-## Array (45)
+## Array (46)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -52,6 +52,7 @@
 |  | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | Medium | [cpp](solutions/array/0000-minimum-operations-to-reduce-x-to-zero.cpp) |
 |  | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [cpp](solutions/array/0000-plus-one.cpp) |
 |  | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | [cpp](solutions/array/0000-smallest-index-with-digit-sum-equal-to-index.cpp) |
+|  | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [cpp](solutions/array/0000-two-sum.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Depth First Search (2)
