@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-09-24.
+> Auto-committed by Nexus OS. Updated 2026-09-25.
 
-**92** solutions - Easy 13 - Medium 48 - Hard 28
+**93** solutions - Easy 13 - Medium 48 - Hard 29
 
 ## Array (48)
 
@@ -76,7 +76,7 @@
 |---|---|---|---|
 | 1976 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | Medium | [cpp](solutions/dynamic-programming/1976-number-of-ways-to-arrive-at-destination.cpp) |
 
-## Hash Table (5)
+## Hash Table (6)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -85,6 +85,7 @@
 |  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [cpp](solutions/hash-table/0000-implement-trie-prefix-tree.cpp) |
 |  | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard | [cpp](solutions/hash-table/0000-substring-with-concatenation-of-all-words.cpp) |
 |  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [cpp](solutions/hash-table/0000-longest-substring-without-repeating-characters.cpp) |
+|  | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) | Hard | [cpp](solutions/hash-table/0000-brace-expansion-ii.cpp) |
 
 ## Linked List (1)
 
