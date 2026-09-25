@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T08:19:39.529Z",
+ "updated": "2026-09-25T04:04:45.074Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1011,6 +1011,17 @@
    "ext": "cpp",
    "path": "solutions/math/0000-rectangle-overlap.cpp",
    "solvedAt": "2026-09-24T08:19:37.545Z",
+   "lang": "cpp"
+  },
+  "brace-expansion-ii": {
+   "slug": "brace-expansion-ii",
+   "title": "Brace Expansion II",
+   "qid": 0,
+   "difficulty": "Hard",
+   "topic": "hash-table",
+   "ext": "cpp",
+   "path": "solutions/hash-table/0000-brace-expansion-ii.cpp",
+   "solvedAt": "2026-09-25T04:04:42.032Z",
    "lang": "cpp"
   }
  }
