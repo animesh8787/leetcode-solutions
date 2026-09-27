@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-09-25.
+> Auto-committed by Nexus OS. Updated 2026-09-27.
 
-**93** solutions - Easy 13 - Medium 48 - Hard 29
+**94** solutions - Easy 13 - Medium 49 - Hard 29
 
 ## Array (48)
 
@@ -115,7 +115,7 @@
 |  | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | - | [cpp](solutions/misc/0000-maximum-matching-of-players-with-trainers.cpp) |
 |  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | - | [cpp](solutions/misc/0000-spiral-matrix-ii.cpp) |
 
-## String (19)
+## String (20)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -138,6 +138,7 @@
 |  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [cpp](solutions/string/0000-length-of-last-word.cpp) |
 |  | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | Easy | [cpp](solutions/string/0000-reverse-degree-of-a-string.cpp) |
 |  | [Valid Number](https://leetcode.com/problems/valid-number/) | Hard | [cpp](solutions/string/0000-valid-number.cpp) |
+|  | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | [cpp](solutions/string/0000-reverse-substrings-between-each-pair-of-parentheses.cpp) |
 
 ## Tree (1)
 
