@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25T04:04:45.074Z",
+ "updated": "2026-09-27T12:31:59.815Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1022,6 +1022,17 @@
    "ext": "cpp",
    "path": "solutions/hash-table/0000-brace-expansion-ii.cpp",
    "solvedAt": "2026-09-25T04:04:42.032Z",
+   "lang": "cpp"
+  },
+  "reverse-substrings-between-each-pair-of-parentheses": {
+   "slug": "reverse-substrings-between-each-pair-of-parentheses",
+   "title": "Reverse Substrings Between Each Pair of Parentheses",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "string",
+   "ext": "cpp",
+   "path": "solutions/string/0000-reverse-substrings-between-each-pair-of-parentheses.cpp",
+   "solvedAt": "2026-09-27T12:31:56.905Z",
    "lang": "cpp"
   }
  }
