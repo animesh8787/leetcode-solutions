@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28T19:03:29.406Z",
+ "updated": "2026-09-28T19:03:44.676Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1054,7 +1054,7 @@
    "topic": "string",
    "ext": "cpp",
    "path": "solutions/string/0000-maximum-nesting-depth-of-the-parentheses.cpp",
-   "solvedAt": "2026-09-28T18:23:04.059Z",
+   "solvedAt": "2026-09-28T19:03:42.402Z",
    "lang": "cpp"
   },
   "text-justification": {
