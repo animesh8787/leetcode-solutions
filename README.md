@@ -2,9 +2,9 @@
 
 > Auto-committed by Nexus OS. Updated 2026-09-28.
 
-**96** solutions - Easy 15 - Medium 49 - Hard 29
+**97** solutions - Easy 15 - Medium 49 - Hard 30
 
-## Array (48)
+## Array (49)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -55,6 +55,7 @@
 |  | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [cpp](solutions/array/0000-two-sum.cpp) |
 |  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [cpp](solutions/array/0000-group-anagrams.cpp) |
 |  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [cpp](solutions/array/0000-median-of-two-sorted-arrays.cpp) |
+|  | [Text Justification](https://leetcode.com/problems/text-justification/) | Hard | [cpp](solutions/array/0000-text-justification.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Backtracking (1)
