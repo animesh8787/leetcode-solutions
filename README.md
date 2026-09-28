@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-09-27.
+> Auto-committed by Nexus OS. Updated 2026-09-28.
 
-**95** solutions - Easy 14 - Medium 49 - Hard 29
+**96** solutions - Easy 15 - Medium 49 - Hard 29
 
 ## Array (48)
 
@@ -116,7 +116,7 @@
 |  | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | - | [cpp](solutions/misc/0000-maximum-matching-of-players-with-trainers.cpp) |
 |  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | - | [cpp](solutions/misc/0000-spiral-matrix-ii.cpp) |
 
-## String (20)
+## String (21)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -140,6 +140,7 @@
 |  | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | Easy | [cpp](solutions/string/0000-reverse-degree-of-a-string.cpp) |
 |  | [Valid Number](https://leetcode.com/problems/valid-number/) | Hard | [cpp](solutions/string/0000-valid-number.cpp) |
 |  | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | [cpp](solutions/string/0000-reverse-substrings-between-each-pair-of-parentheses.cpp) |
+|  | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | [cpp](solutions/string/0000-maximum-nesting-depth-of-the-parentheses.cpp) |
 
 ## Tree (1)
 
