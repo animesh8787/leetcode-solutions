@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-09-28.
+> Auto-committed by Nexus OS. Updated 2026-09-29.
 
-**97** solutions - Easy 15 - Medium 49 - Hard 30
+**98** solutions - Easy 15 - Medium 49 - Hard 31
 
-## Array (49)
+## Array (50)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -56,6 +56,7 @@
 |  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [cpp](solutions/array/0000-group-anagrams.cpp) |
 |  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [cpp](solutions/array/0000-median-of-two-sorted-arrays.cpp) |
 |  | [Text Justification](https://leetcode.com/problems/text-justification/) | Hard | [cpp](solutions/array/0000-text-justification.cpp) |
+|  | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | Hard | [cpp](solutions/array/0000-check-if-there-is-a-valid-parentheses-string-path.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Backtracking (1)
