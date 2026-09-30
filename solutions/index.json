@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T03:47:20.580Z",
+ "updated": "2026-09-30T04:17:34.073Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1077,6 +1077,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-check-if-there-is-a-valid-parentheses-string-path.cpp",
    "solvedAt": "2026-09-29T03:47:17.632Z",
+   "lang": "cpp"
+  },
+  "maximum-nesting-depth-of-two-valid-parentheses-strings": {
+   "slug": "maximum-nesting-depth-of-two-valid-parentheses-strings",
+   "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "string",
+   "ext": "cpp",
+   "path": "solutions/string/0000-maximum-nesting-depth-of-two-valid-parentheses-strings.cpp",
+   "solvedAt": "2026-09-30T04:17:31.255Z",
    "lang": "cpp"
   }
  }
