@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T03:16:38.698Z",
+ "updated": "2026-10-01T03:28:34.755Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1109,7 +1109,7 @@
    "topic": "math",
    "ext": "cpp",
    "path": "solutions/math/0000-sqrtx.cpp",
-   "solvedAt": "2026-10-01T03:16:33.969Z",
+   "solvedAt": "2026-10-01T03:28:31.107Z",
    "lang": "cpp"
   }
  }
