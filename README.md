@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-10-01.
 
-**101** solutions - Easy 17 - Medium 50 - Hard 31
+**102** solutions - Easy 18 - Medium 50 - Hard 31
 
 ## Array (50)
 
@@ -153,10 +153,11 @@
 |---|---|---|---|
 |  | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Medium | [cpp](solutions/tree/0000-count-nodes-equal-to-average-of-subtree.cpp) |
 
-## Two Pointers (2)
+## Two Pointers (3)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
 |  | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | [cpp](solutions/two-pointers/0000-maximum-number-of-non-overlapping-palindrome-substrings.cpp) |
 |  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [cpp](solutions/two-pointers/0000-longest-palindromic-substring.cpp) |
+|  | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [cpp](solutions/two-pointers/0000-reverse-string.cpp) |
 
