@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-09-30.
+> Auto-committed by Nexus OS. Updated 2026-10-01.
 
-**99** solutions - Easy 15 - Medium 50 - Hard 31
+**100** solutions - Easy 16 - Medium 50 - Hard 31
 
 ## Array (50)
 
@@ -118,7 +118,7 @@
 |  | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | - | [cpp](solutions/misc/0000-maximum-matching-of-players-with-trainers.cpp) |
 |  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | - | [cpp](solutions/misc/0000-spiral-matrix-ii.cpp) |
 
-## String (22)
+## String (23)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -144,6 +144,7 @@
 |  | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | Medium | [cpp](solutions/string/0000-reverse-substrings-between-each-pair-of-parentheses.cpp) |
 |  | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | [cpp](solutions/string/0000-maximum-nesting-depth-of-the-parentheses.cpp) |
 |  | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | [cpp](solutions/string/0000-maximum-nesting-depth-of-two-valid-parentheses-strings.cpp) |
+|  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [cpp](solutions/string/0000-valid-parentheses.cpp) |
 
 ## Tree (1)
 
