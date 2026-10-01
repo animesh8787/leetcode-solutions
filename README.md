@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-10-01.
 
-**100** solutions - Easy 16 - Medium 50 - Hard 31
+**101** solutions - Easy 17 - Medium 50 - Hard 31
 
 ## Array (50)
 
@@ -95,7 +95,7 @@
 |---|---|---|---|
 |  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [cpp](solutions/linked-list/0000-add-two-numbers.cpp) |
 
-## Math (10)
+## Math (11)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -109,6 +109,7 @@
 |  | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | Hard | [cpp](solutions/math/0000-permutation-sequence.cpp) |
 |  | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | Easy | [cpp](solutions/math/0000-rectangle-overlap.cpp) |
 |  | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [cpp](solutions/math/0000-add-binary.cpp) |
+|  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | [cpp](solutions/math/0000-sqrtx.cpp) |
 
 ## Misc (3)
 
