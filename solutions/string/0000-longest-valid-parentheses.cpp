@@ -1,5 +1,5 @@
 // Longest Valid Parentheses
-// Difficulty: Hard   Solved: 2026-09-12
+// Difficulty: Hard   Solved: 2026-10-03
 // https://leetcode.com/problems/longest-valid-parentheses/
 
 class Solution {
