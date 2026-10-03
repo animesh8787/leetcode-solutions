@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-10-03.
 
-**103** solutions - Easy 18 - Medium 51 - Hard 31
+**104** solutions - Easy 18 - Medium 52 - Hard 31
 
 ## Array (50)
 
@@ -119,7 +119,7 @@
 |  | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | - | [cpp](solutions/misc/0000-maximum-matching-of-players-with-trainers.cpp) |
 |  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | - | [cpp](solutions/misc/0000-spiral-matrix-ii.cpp) |
 
-## String (24)
+## String (25)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -147,6 +147,7 @@
 |  | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium | [cpp](solutions/string/0000-maximum-nesting-depth-of-two-valid-parentheses-strings.cpp) |
 |  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [cpp](solutions/string/0000-valid-parentheses.cpp) |
 |  | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [cpp](solutions/string/0000-generate-parentheses.cpp) |
+|  | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | [cpp](solutions/string/0000-simplify-path.cpp) |
 
 ## Tree (1)
 
