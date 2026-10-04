@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-10-04.
 
-**105** solutions - Easy 18 - Medium 53 - Hard 31
+**106** solutions - Easy 18 - Medium 54 - Hard 31
 
 ## Array (50)
 
@@ -59,11 +59,12 @@
 |  | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | Hard | [cpp](solutions/array/0000-check-if-there-is-a-valid-parentheses-string-path.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
-## Backtracking (1)
+## Backtracking (2)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
 |  | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | Hard | [cpp](solutions/backtracking/0000-n-queens-ii.cpp) |
+|  | [Combinations](https://leetcode.com/problems/combinations/) | Medium | [cpp](solutions/backtracking/0000-combinations.cpp) |
 
 ## Depth First Search (2)
 
