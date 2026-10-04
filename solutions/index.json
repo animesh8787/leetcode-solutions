@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T11:07:21.792Z",
+ "updated": "2026-10-04T13:11:30.430Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1143,6 +1143,17 @@
    "ext": "cpp",
    "path": "solutions/string/0000-simplify-path.cpp",
    "solvedAt": "2026-10-03T11:07:18.626Z",
+   "lang": "cpp"
+  },
+  "valid-parenthesis-string": {
+   "slug": "valid-parenthesis-string",
+   "title": "Valid Parenthesis String",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "string",
+   "ext": "cpp",
+   "path": "solutions/string/0000-valid-parenthesis-string.cpp",
+   "solvedAt": "2026-10-04T13:11:27.321Z",
    "lang": "cpp"
   }
  }
