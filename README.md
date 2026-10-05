@@ -2,9 +2,9 @@
 
 > Auto-committed by Nexus OS. Updated 2026-10-05.
 
-**107** solutions - Easy 18 - Medium 55 - Hard 31
+**108** solutions - Easy 18 - Medium 56 - Hard 31
 
-## Array (50)
+## Array (51)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -57,6 +57,7 @@
 |  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [cpp](solutions/array/0000-median-of-two-sorted-arrays.cpp) |
 |  | [Text Justification](https://leetcode.com/problems/text-justification/) | Hard | [cpp](solutions/array/0000-text-justification.cpp) |
 |  | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | Hard | [cpp](solutions/array/0000-check-if-there-is-a-valid-parentheses-string-path.cpp) |
+|  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | [cpp](solutions/array/0000-remove-duplicates-from-sorted-array-ii.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Backtracking (2)
