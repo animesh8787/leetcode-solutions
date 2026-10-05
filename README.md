@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-10-04.
+> Auto-committed by Nexus OS. Updated 2026-10-05.
 
-**106** solutions - Easy 18 - Medium 54 - Hard 31
+**107** solutions - Easy 18 - Medium 55 - Hard 31
 
 ## Array (50)
 
@@ -120,7 +120,7 @@
 |  | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | - | [cpp](solutions/misc/0000-maximum-matching-of-players-with-trainers.cpp) |
 |  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | - | [cpp](solutions/misc/0000-spiral-matrix-ii.cpp) |
 
-## String (26)
+## String (27)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -150,6 +150,7 @@
 |  | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [cpp](solutions/string/0000-generate-parentheses.cpp) |
 |  | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | [cpp](solutions/string/0000-simplify-path.cpp) |
 |  | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | [cpp](solutions/string/0000-valid-parenthesis-string.cpp) |
+|  | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | Medium | [cpp](solutions/string/0000-score-of-parentheses.cpp) |
 
 ## Tree (1)
 
