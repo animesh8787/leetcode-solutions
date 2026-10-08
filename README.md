@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-10-07.
+> Auto-committed by Nexus OS. Updated 2026-10-08.
 
-**110** solutions - Easy 18 - Medium 57 - Hard 32
+**111** solutions - Easy 19 - Medium 57 - Hard 32
 
 ## Array (51)
 
@@ -122,7 +122,7 @@
 |  | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | - | [cpp](solutions/misc/0000-maximum-matching-of-players-with-trainers.cpp) |
 |  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | - | [cpp](solutions/misc/0000-spiral-matrix-ii.cpp) |
 
-## String (28)
+## String (29)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -154,6 +154,7 @@
 |  | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | [cpp](solutions/string/0000-valid-parenthesis-string.cpp) |
 |  | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | Medium | [cpp](solutions/string/0000-score-of-parentheses.cpp) |
 |  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard | [cpp](solutions/string/0000-remove-invalid-parentheses.cpp) |
+|  | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | [cpp](solutions/string/0000-remove-outermost-parentheses.cpp) |
 
 ## Tree (1)
 
