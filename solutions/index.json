@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T05:58:16.567Z",
+ "updated": "2026-10-08T08:36:09.558Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1209,6 +1209,17 @@
    "ext": "cpp",
    "path": "solutions/linked-list/0000-remove-duplicates-from-sorted-list-ii.cpp",
    "solvedAt": "2026-10-07T05:58:13.160Z",
+   "lang": "cpp"
+  },
+  "remove-outermost-parentheses": {
+   "slug": "remove-outermost-parentheses",
+   "title": "Remove Outermost Parentheses",
+   "qid": 0,
+   "difficulty": "Easy",
+   "topic": "string",
+   "ext": "cpp",
+   "path": "solutions/string/0000-remove-outermost-parentheses.cpp",
+   "solvedAt": "2026-10-08T08:36:05.845Z",
    "lang": "cpp"
   }
  }
