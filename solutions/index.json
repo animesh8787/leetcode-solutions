@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T04:37:08.131Z",
+ "updated": "2026-10-10T08:59:47.483Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1253,6 +1253,17 @@
    "ext": "cpp",
    "path": "solutions/linked-list/0000-partition-list.cpp",
    "solvedAt": "2026-10-10T04:37:05.027Z",
+   "lang": "cpp"
+  },
+  "palindrome-number": {
+   "slug": "palindrome-number",
+   "title": "Palindrome Number",
+   "qid": 0,
+   "difficulty": "Easy",
+   "topic": "math",
+   "ext": "cpp",
+   "path": "solutions/math/0000-palindrome-number.cpp",
+   "solvedAt": "2026-10-10T08:59:43.876Z",
    "lang": "cpp"
   }
  }
