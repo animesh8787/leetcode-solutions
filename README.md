@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-10-10.
 
-**113** solutions - Easy 20 - Medium 58 - Hard 32
+**114** solutions - Easy 20 - Medium 59 - Hard 32
 
 ## Array (52)
 
@@ -92,13 +92,14 @@
 |  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [cpp](solutions/hash-table/0000-longest-substring-without-repeating-characters.cpp) |
 |  | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) | Hard | [cpp](solutions/hash-table/0000-brace-expansion-ii.cpp) |
 
-## Linked List (3)
+## Linked List (4)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
 |  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [cpp](solutions/linked-list/0000-add-two-numbers.cpp) |
 |  | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Medium | [cpp](solutions/linked-list/0000-remove-duplicates-from-sorted-list-ii.cpp) |
 |  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [cpp](solutions/linked-list/0000-remove-duplicates-from-sorted-list.cpp) |
+|  | [Partition List](https://leetcode.com/problems/partition-list/) | Medium | [cpp](solutions/linked-list/0000-partition-list.cpp) |
 
 ## Math (11)
 
