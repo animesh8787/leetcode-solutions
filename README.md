@@ -2,9 +2,9 @@
 
 > Auto-committed by Nexus OS. Updated 2026-10-10.
 
-**115** solutions - Easy 21 - Medium 59 - Hard 32
+**116** solutions - Easy 21 - Medium 60 - Hard 32
 
-## Array (52)
+## Array (53)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -59,6 +59,7 @@
 |  | [Check if There Is a Valid Parentheses String Path](https://leetcode.com/problems/check-if-there-is-a-valid-parentheses-string-path/) | Hard | [cpp](solutions/array/0000-check-if-there-is-a-valid-parentheses-string-path.cpp) |
 |  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | [cpp](solutions/array/0000-remove-duplicates-from-sorted-array-ii.cpp) |
 |  | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | Medium | [cpp](solutions/array/0000-minimum-sum-of-squared-difference.cpp) |
+|  | [Count Primes](https://leetcode.com/problems/count-primes/) | Medium | [cpp](solutions/array/0000-count-primes.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Backtracking (2)
