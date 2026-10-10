@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T08:59:47.483Z",
+ "updated": "2026-10-10T12:17:44.228Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1264,6 +1264,17 @@
    "ext": "cpp",
    "path": "solutions/math/0000-palindrome-number.cpp",
    "solvedAt": "2026-10-10T08:59:43.876Z",
+   "lang": "cpp"
+  },
+  "count-primes": {
+   "slug": "count-primes",
+   "title": "Count Primes",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-count-primes.cpp",
+   "solvedAt": "2026-10-10T12:17:41.297Z",
    "lang": "cpp"
   }
  }
