@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-10-10.
+> Auto-committed by Nexus OS. Updated 2026-10-11.
 
-**116** solutions - Easy 21 - Medium 60 - Hard 32
+**117** solutions - Easy 22 - Medium 60 - Hard 32
 
-## Array (53)
+## Array (54)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -60,6 +60,7 @@
 |  | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | [cpp](solutions/array/0000-remove-duplicates-from-sorted-array-ii.cpp) |
 |  | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | Medium | [cpp](solutions/array/0000-minimum-sum-of-squared-difference.cpp) |
 |  | [Count Primes](https://leetcode.com/problems/count-primes/) | Medium | [cpp](solutions/array/0000-count-primes.cpp) |
+|  | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy | [cpp](solutions/array/0000-sum-of-squares-of-special-elements.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Backtracking (2)
