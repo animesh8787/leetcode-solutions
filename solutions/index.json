@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T12:29:43.904Z",
+ "updated": "2026-10-12T13:09:15.222Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1286,6 +1286,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-sum-of-squares-of-special-elements.cpp",
    "solvedAt": "2026-10-11T12:29:40.289Z",
+   "lang": "cpp"
+  },
+  "apply-operations-on-array-to-maximize-sum-of-squares": {
+   "slug": "apply-operations-on-array-to-maximize-sum-of-squares",
+   "title": "Apply Operations on Array to Maximize Sum of Squares",
+   "qid": 0,
+   "difficulty": "Hard",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-apply-operations-on-array-to-maximize-sum-of-squares.cpp",
+   "solvedAt": "2026-10-12T13:09:11.668Z",
    "lang": "cpp"
   }
  }
