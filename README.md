@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-10-13.
 
-**119** solutions - Easy 22 - Medium 61 - Hard 33
+**119** solutions - Easy 21 - Medium 61 - Hard 33
 
 ## Array (56)
 
@@ -122,13 +122,14 @@
 |  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | [cpp](solutions/math/0000-sqrtx.cpp) |
 |  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [cpp](solutions/math/0000-palindrome-number.cpp) |
 
-## Misc (3)
+## Misc (4)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
 |  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | - | [cpp](solutions/misc/0000-find-the-index-of-the-first-occurrence-in-a-string.cpp) |
 |  | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | - | [cpp](solutions/misc/0000-maximum-matching-of-players-with-trainers.cpp) |
 |  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | - | [cpp](solutions/misc/0000-spiral-matrix-ii.cpp) |
+|  | [Reverse String](https://leetcode.com/problems/reverse-string/) | - | [cpp](solutions/misc/0000-reverse-string.cpp) |
 
 ## String (29)
 
@@ -170,11 +171,10 @@
 |---|---|---|---|
 |  | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | Medium | [cpp](solutions/tree/0000-count-nodes-equal-to-average-of-subtree.cpp) |
 
-## Two Pointers (3)
+## Two Pointers (2)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
 |  | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | Hard | [cpp](solutions/two-pointers/0000-maximum-number-of-non-overlapping-palindrome-substrings.cpp) |
 |  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [cpp](solutions/two-pointers/0000-longest-palindromic-substring.cpp) |
-|  | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [cpp](solutions/two-pointers/0000-reverse-string.cpp) |
 
