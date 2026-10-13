@@ -1,16 +1,17 @@
 // Reverse String
-// Difficulty: Easy   Solved: 2026-10-01
+// Difficulty: Easy   Solved: 2026-10-13
 // https://leetcode.com/problems/reverse-string/
 
 class Solution {
 public:
     void reverseString(vector<char>& s) {
-        int l = 0, r = s.size() - 1;
+        helper(s, 0, s.size() - 1);
+    }
 
-        while (l < r) {
-            swap(s[l], s[r]);
-            l++;
-            r--;
-        }
+private:
+    void helper(vector<char>& s, int l, int r) {
+        if (l >= r) return;
+        swap(s[l], s[r]);
+        helper(s, l + 1, r - 1);
     }
 };
