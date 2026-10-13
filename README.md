@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-10-13.
 
-**119** solutions - Easy 21 - Medium 61 - Hard 33
+**120** solutions - Easy 22 - Medium 61 - Hard 33
 
 ## Array (56)
 
@@ -105,7 +105,7 @@
 |  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [cpp](solutions/linked-list/0000-remove-duplicates-from-sorted-list.cpp) |
 |  | [Partition List](https://leetcode.com/problems/partition-list/) | Medium | [cpp](solutions/linked-list/0000-partition-list.cpp) |
 
-## Math (12)
+## Math (13)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -121,6 +121,7 @@
 |  | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [cpp](solutions/math/0000-add-binary.cpp) |
 |  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | [cpp](solutions/math/0000-sqrtx.cpp) |
 |  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [cpp](solutions/math/0000-palindrome-number.cpp) |
+|  | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | [cpp](solutions/math/0000-fibonacci-number.cpp) |
 
 ## Misc (4)
 
