@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T13:33:10.894Z",
+ "updated": "2026-10-13T13:33:21.731Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1116,11 +1116,11 @@
    "slug": "reverse-string",
    "title": "Reverse String",
    "qid": 0,
-   "difficulty": "Easy",
-   "topic": "two-pointers",
+   "difficulty": "",
+   "topic": "misc",
    "ext": "cpp",
-   "path": "solutions/two-pointers/0000-reverse-string.cpp",
-   "solvedAt": "2026-10-13T13:33:07.103Z",
+   "path": "solutions/misc/0000-reverse-string.cpp",
+   "solvedAt": "2026-10-13T13:33:19.468Z",
    "lang": "cpp"
   },
   "generate-parentheses": {
