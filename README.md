@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-10-12.
+> Auto-committed by Nexus OS. Updated 2026-10-13.
 
-**118** solutions - Easy 22 - Medium 60 - Hard 33
+**119** solutions - Easy 22 - Medium 61 - Hard 33
 
-## Array (55)
+## Array (56)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -62,6 +62,7 @@
 |  | [Count Primes](https://leetcode.com/problems/count-primes/) | Medium | [cpp](solutions/array/0000-count-primes.cpp) |
 |  | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | Easy | [cpp](solutions/array/0000-sum-of-squares-of-special-elements.cpp) |
 |  | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | Hard | [cpp](solutions/array/0000-apply-operations-on-array-to-maximize-sum-of-squares.cpp) |
+|  | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Medium | [cpp](solutions/array/0000-maximum-alternating-sum-of-squares.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Backtracking (2)
