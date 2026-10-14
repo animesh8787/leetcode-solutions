@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-10-13.
+> Auto-committed by Nexus OS. Updated 2026-10-14.
 
-**120** solutions - Easy 22 - Medium 61 - Hard 33
+**121** solutions - Easy 22 - Medium 62 - Hard 33
 
 ## Array (56)
 
@@ -105,7 +105,7 @@
 |  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [cpp](solutions/linked-list/0000-remove-duplicates-from-sorted-list.cpp) |
 |  | [Partition List](https://leetcode.com/problems/partition-list/) | Medium | [cpp](solutions/linked-list/0000-partition-list.cpp) |
 
-## Math (13)
+## Math (14)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -122,6 +122,7 @@
 |  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | [cpp](solutions/math/0000-sqrtx.cpp) |
 |  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [cpp](solutions/math/0000-palindrome-number.cpp) |
 |  | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | [cpp](solutions/math/0000-fibonacci-number.cpp) |
+|  | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | Medium | [cpp](solutions/math/0000-maximize-sum-of-squares-of-digits.cpp) |
 
 ## Misc (4)
 
