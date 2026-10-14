@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T06:41:55.446Z",
+ "updated": "2026-10-14T11:58:40.125Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -548,7 +548,7 @@
    "topic": "array",
    "ext": "cpp",
    "path": "solutions/array/0000-frequency-of-the-most-frequent-element.cpp",
-   "solvedAt": "2026-09-10T08:50:25.523Z",
+   "solvedAt": "2026-10-14T11:58:36.402Z",
    "lang": "cpp"
   },
   "longest-happy-prefix": {
