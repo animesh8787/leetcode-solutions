@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T11:58:53.195Z",
+ "updated": "2026-10-15T13:25:36.148Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1330,6 +1330,17 @@
    "ext": "cpp",
    "path": "solutions/math/0000-maximize-sum-of-squares-of-digits.cpp",
    "solvedAt": "2026-10-14T06:41:51.764Z",
+   "lang": "cpp"
+  },
+  "subarrays-distinct-element-sum-of-squares-i": {
+   "slug": "subarrays-distinct-element-sum-of-squares-i",
+   "title": "Subarrays Distinct Element Sum of Squares I",
+   "qid": 0,
+   "difficulty": "Easy",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-subarrays-distinct-element-sum-of-squares-i.cpp",
+   "solvedAt": "2026-10-15T13:25:32.466Z",
    "lang": "cpp"
   }
  }
