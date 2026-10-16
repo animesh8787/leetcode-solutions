@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-10-16.
 
-**123** solutions - Easy 23 - Medium 62 - Hard 34
+**124** solutions - Easy 23 - Medium 62 - Hard 35
 
 ## Array (58)
 
@@ -135,7 +135,7 @@
 |  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | - | [cpp](solutions/misc/0000-spiral-matrix-ii.cpp) |
 |  | [Reverse String](https://leetcode.com/problems/reverse-string/) | - | [cpp](solutions/misc/0000-reverse-string.cpp) |
 
-## String (29)
+## String (30)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -168,6 +168,7 @@
 |  | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | Medium | [cpp](solutions/string/0000-score-of-parentheses.cpp) |
 |  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard | [cpp](solutions/string/0000-remove-invalid-parentheses.cpp) |
 |  | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | [cpp](solutions/string/0000-remove-outermost-parentheses.cpp) |
+|  | [Scramble String](https://leetcode.com/problems/scramble-string/) | Hard | [cpp](solutions/string/0000-scramble-string.cpp) |
 
 ## Tree (1)
 
