@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-10-15.
+> Auto-committed by Nexus OS. Updated 2026-10-16.
 
-**122** solutions - Easy 23 - Medium 62 - Hard 33
+**123** solutions - Easy 23 - Medium 62 - Hard 34
 
-## Array (57)
+## Array (58)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -64,6 +64,7 @@
 |  | [Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | Hard | [cpp](solutions/array/0000-apply-operations-on-array-to-maximize-sum-of-squares.cpp) |
 |  | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | Medium | [cpp](solutions/array/0000-maximum-alternating-sum-of-squares.cpp) |
 |  | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | Easy | [cpp](solutions/array/0000-subarrays-distinct-element-sum-of-squares-i.cpp) |
+|  | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | Hard | [cpp](solutions/array/0000-subarrays-distinct-element-sum-of-squares-ii.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Backtracking (2)
