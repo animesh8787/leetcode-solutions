@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T13:09:28.234Z",
+ "updated": "2026-10-18T10:46:18.406Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1374,6 +1374,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-minimum-swaps-to-sort-by-digit-sum.cpp",
    "solvedAt": "2026-10-17T13:09:24.561Z",
+   "lang": "cpp"
+  },
+  "number-of-ways-to-reorder-array-to-get-same-bst": {
+   "slug": "number-of-ways-to-reorder-array-to-get-same-bst",
+   "title": "Number of Ways to Reorder Array to Get Same BST",
+   "qid": 0,
+   "difficulty": "Hard",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-number-of-ways-to-reorder-array-to-get-same-bst.cpp",
+   "solvedAt": "2026-10-18T10:46:14.708Z",
    "lang": "cpp"
   }
  }
