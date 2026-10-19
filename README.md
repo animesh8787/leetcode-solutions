@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-10-18.
+> Auto-committed by Nexus OS. Updated 2026-10-19.
 
-**126** solutions - Easy 23 - Medium 63 - Hard 36
+**127** solutions - Easy 24 - Medium 63 - Hard 36
 
-## Array (60)
+## Array (61)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -67,6 +67,7 @@
 |  | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | Hard | [cpp](solutions/array/0000-subarrays-distinct-element-sum-of-squares-ii.cpp) |
 |  | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | Medium | [cpp](solutions/array/0000-minimum-swaps-to-sort-by-digit-sum.cpp) |
 |  | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | Hard | [cpp](solutions/array/0000-number-of-ways-to-reorder-array-to-get-same-bst.cpp) |
+|  | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Easy | [cpp](solutions/array/0000-find-target-indices-after-sorting-array.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Backtracking (2)
