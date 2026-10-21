@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T06:36:03.638Z",
+ "updated": "2026-10-21T07:20:08.429Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1396,6 +1396,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-find-target-indices-after-sorting-array.cpp",
    "solvedAt": "2026-10-19T06:35:59.760Z",
+   "lang": "cpp"
+  },
+  "minimum-operations-to-sort-a-string": {
+   "slug": "minimum-operations-to-sort-a-string",
+   "title": "Minimum Operations to Sort a String",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "string",
+   "ext": "cpp",
+   "path": "solutions/string/0000-minimum-operations-to-sort-a-string.cpp",
+   "solvedAt": "2026-10-21T07:20:05.257Z",
    "lang": "cpp"
   }
  }
