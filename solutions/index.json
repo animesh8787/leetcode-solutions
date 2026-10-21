@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T07:20:08.429Z",
+ "updated": "2026-10-21T08:31:30.753Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1407,6 +1407,17 @@
    "ext": "cpp",
    "path": "solutions/string/0000-minimum-operations-to-sort-a-string.cpp",
    "solvedAt": "2026-10-21T07:20:05.257Z",
+   "lang": "cpp"
+  },
+  "gray-code": {
+   "slug": "gray-code",
+   "title": "Gray Code",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "math",
+   "ext": "cpp",
+   "path": "solutions/math/0000-gray-code.cpp",
+   "solvedAt": "2026-10-21T08:31:27.380Z",
    "lang": "cpp"
   }
  }
