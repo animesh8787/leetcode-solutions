@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-10-19.
+> Auto-committed by Nexus OS. Updated 2026-10-21.
 
-**127** solutions - Easy 24 - Medium 63 - Hard 36
+**128** solutions - Easy 24 - Medium 64 - Hard 36
 
 ## Array (61)
 
@@ -138,7 +138,7 @@
 |  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | - | [cpp](solutions/misc/0000-spiral-matrix-ii.cpp) |
 |  | [Reverse String](https://leetcode.com/problems/reverse-string/) | - | [cpp](solutions/misc/0000-reverse-string.cpp) |
 
-## String (30)
+## String (31)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -172,6 +172,7 @@
 |  | [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | Hard | [cpp](solutions/string/0000-remove-invalid-parentheses.cpp) |
 |  | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | [cpp](solutions/string/0000-remove-outermost-parentheses.cpp) |
 |  | [Scramble String](https://leetcode.com/problems/scramble-string/) | Hard | [cpp](solutions/string/0000-scramble-string.cpp) |
+|  | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium | [cpp](solutions/string/0000-minimum-operations-to-sort-a-string.cpp) |
 
 ## Tree (1)
 
