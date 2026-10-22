@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T08:31:30.753Z",
+ "updated": "2026-10-22T09:02:05.040Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1418,6 +1418,17 @@
    "ext": "cpp",
    "path": "solutions/math/0000-gray-code.cpp",
    "solvedAt": "2026-10-21T08:31:27.380Z",
+   "lang": "cpp"
+  },
+  "minimum-operations-to-sort-a-permutation": {
+   "slug": "minimum-operations-to-sort-a-permutation",
+   "title": "Minimum Operations to Sort a Permutation",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-minimum-operations-to-sort-a-permutation.cpp",
+   "solvedAt": "2026-10-22T09:02:01.604Z",
    "lang": "cpp"
   }
  }
