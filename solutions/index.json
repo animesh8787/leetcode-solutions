@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T05:36:11.434Z",
+ "updated": "2026-10-24T12:34:33.870Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1440,6 +1440,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-maximum-k-to-sort-a-permutation.cpp",
    "solvedAt": "2026-10-23T05:36:06.839Z",
+   "lang": "cpp"
+  },
+  "count-days-spent-together": {
+   "slug": "count-days-spent-together",
+   "title": "Count Days Spent Together",
+   "qid": 0,
+   "difficulty": "Easy",
+   "topic": "math",
+   "ext": "cpp",
+   "path": "solutions/math/0000-count-days-spent-together.cpp",
+   "solvedAt": "2026-10-24T12:34:30.494Z",
    "lang": "cpp"
   }
  }
