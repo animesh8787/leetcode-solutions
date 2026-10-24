@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-10-23.
+> Auto-committed by Nexus OS. Updated 2026-10-24.
 
-**131** solutions - Easy 24 - Medium 67 - Hard 36
+**132** solutions - Easy 25 - Medium 67 - Hard 36
 
 ## Array (63)
 
@@ -112,7 +112,7 @@
 |  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [cpp](solutions/linked-list/0000-remove-duplicates-from-sorted-list.cpp) |
 |  | [Partition List](https://leetcode.com/problems/partition-list/) | Medium | [cpp](solutions/linked-list/0000-partition-list.cpp) |
 
-## Math (15)
+## Math (16)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -131,6 +131,7 @@
 |  | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | [cpp](solutions/math/0000-fibonacci-number.cpp) |
 |  | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | Medium | [cpp](solutions/math/0000-maximize-sum-of-squares-of-digits.cpp) |
 |  | [Gray Code](https://leetcode.com/problems/gray-code/) | Medium | [cpp](solutions/math/0000-gray-code.cpp) |
+|  | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | Easy | [cpp](solutions/math/0000-count-days-spent-together.cpp) |
 
 ## Misc (4)
 
