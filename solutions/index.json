@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T09:25:45.168Z",
+ "updated": "2026-10-26T13:31:00.265Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1462,6 +1462,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-number-of-closed-islands.cpp",
    "solvedAt": "2026-10-25T09:25:41.977Z",
+   "lang": "cpp"
+  },
+  "count-islands-with-total-value-divisible-by-k": {
+   "slug": "count-islands-with-total-value-divisible-by-k",
+   "title": "Count Islands With Total Value Divisible by K",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-count-islands-with-total-value-divisible-by-k.cpp",
+   "solvedAt": "2026-10-26T13:30:56.382Z",
    "lang": "cpp"
   }
  }
