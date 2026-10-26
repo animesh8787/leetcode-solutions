@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-10-25.
+> Auto-committed by Nexus OS. Updated 2026-10-26.
 
-**133** solutions - Easy 25 - Medium 68 - Hard 36
+**134** solutions - Easy 25 - Medium 69 - Hard 36
 
-## Array (64)
+## Array (65)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -71,6 +71,7 @@
 |  | [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | Medium | [cpp](solutions/array/0000-minimum-operations-to-sort-a-permutation.cpp) |
 |  | [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | Medium | [cpp](solutions/array/0000-maximum-k-to-sort-a-permutation.cpp) |
 |  | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | Medium | [cpp](solutions/array/0000-number-of-closed-islands.cpp) |
+|  | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | Medium | [cpp](solutions/array/0000-count-islands-with-total-value-divisible-by-k.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Backtracking (2)
