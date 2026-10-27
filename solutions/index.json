@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T13:31:00.265Z",
+ "updated": "2026-10-27T10:21:28.810Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1473,6 +1473,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-count-islands-with-total-value-divisible-by-k.cpp",
    "solvedAt": "2026-10-26T13:30:56.382Z",
+   "lang": "cpp"
+  },
+  "create-grid-with-exactly-one-path": {
+   "slug": "create-grid-with-exactly-one-path",
+   "title": "Create Grid With Exactly One Path",
+   "qid": 0,
+   "difficulty": "Easy",
+   "topic": "misc",
+   "ext": "cpp",
+   "path": "solutions/misc/0000-create-grid-with-exactly-one-path.cpp",
+   "solvedAt": "2026-10-27T10:21:23.926Z",
    "lang": "cpp"
   }
  }
