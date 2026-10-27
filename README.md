@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-10-26.
+> Auto-committed by Nexus OS. Updated 2026-10-27.
 
-**134** solutions - Easy 25 - Medium 69 - Hard 36
+**135** solutions - Easy 26 - Medium 69 - Hard 36
 
 ## Array (65)
 
@@ -135,7 +135,7 @@
 |  | [Gray Code](https://leetcode.com/problems/gray-code/) | Medium | [cpp](solutions/math/0000-gray-code.cpp) |
 |  | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | Easy | [cpp](solutions/math/0000-count-days-spent-together.cpp) |
 
-## Misc (4)
+## Misc (5)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -143,6 +143,7 @@
 |  | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | - | [cpp](solutions/misc/0000-maximum-matching-of-players-with-trainers.cpp) |
 |  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | - | [cpp](solutions/misc/0000-spiral-matrix-ii.cpp) |
 |  | [Reverse String](https://leetcode.com/problems/reverse-string/) | - | [cpp](solutions/misc/0000-reverse-string.cpp) |
+|  | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Easy | [cpp](solutions/misc/0000-create-grid-with-exactly-one-path.cpp) |
 
 ## String (31)
 
