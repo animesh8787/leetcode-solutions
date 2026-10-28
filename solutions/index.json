@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T10:21:28.810Z",
+ "updated": "2026-10-28T04:33:41.633Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1484,6 +1484,17 @@
    "ext": "cpp",
    "path": "solutions/misc/0000-create-grid-with-exactly-one-path.cpp",
    "solvedAt": "2026-10-27T10:21:23.926Z",
+   "lang": "cpp"
+  },
+  "minimum-xor-path-in-a-grid": {
+   "slug": "minimum-xor-path-in-a-grid",
+   "title": "Minimum XOR Path in a Grid",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-minimum-xor-path-in-a-grid.cpp",
+   "solvedAt": "2026-10-28T04:33:37.919Z",
    "lang": "cpp"
   }
  }
