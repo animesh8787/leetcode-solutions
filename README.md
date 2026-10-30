@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-10-28.
+> Auto-committed by Nexus OS. Updated 2026-10-30.
 
-**136** solutions - Easy 26 - Medium 70 - Hard 36
+**137** solutions - Easy 26 - Medium 71 - Hard 36
 
 ## Array (66)
 
@@ -146,7 +146,7 @@
 |  | [Reverse String](https://leetcode.com/problems/reverse-string/) | - | [cpp](solutions/misc/0000-reverse-string.cpp) |
 |  | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Easy | [cpp](solutions/misc/0000-create-grid-with-exactly-one-path.cpp) |
 
-## String (31)
+## String (32)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -181,6 +181,7 @@
 |  | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | Easy | [cpp](solutions/string/0000-remove-outermost-parentheses.cpp) |
 |  | [Scramble String](https://leetcode.com/problems/scramble-string/) | Hard | [cpp](solutions/string/0000-scramble-string.cpp) |
 |  | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium | [cpp](solutions/string/0000-minimum-operations-to-sort-a-string.cpp) |
+|  | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium | [cpp](solutions/string/0000-shortest-path-with-at-most-k-consecutive-identical-characters.cpp) |
 
 ## Tree (1)
 
