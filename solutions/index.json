@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T04:33:41.633Z",
+ "updated": "2026-10-30T04:18:18.953Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1495,6 +1495,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-minimum-xor-path-in-a-grid.cpp",
    "solvedAt": "2026-10-28T04:33:37.919Z",
+   "lang": "cpp"
+  },
+  "shortest-path-with-at-most-k-consecutive-identical-characters": {
+   "slug": "shortest-path-with-at-most-k-consecutive-identical-characters",
+   "title": "Shortest Path With At Most K Consecutive Identical Characters",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "string",
+   "ext": "cpp",
+   "path": "solutions/string/0000-shortest-path-with-at-most-k-consecutive-identical-characters.cpp",
+   "solvedAt": "2026-10-30T04:18:15.601Z",
    "lang": "cpp"
   }
  }
