@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T04:18:18.953Z",
+ "updated": "2026-10-31T07:54:18.472Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1506,6 +1506,17 @@
    "ext": "cpp",
    "path": "solutions/string/0000-shortest-path-with-at-most-k-consecutive-identical-characters.cpp",
    "solvedAt": "2026-10-30T04:18:15.601Z",
+   "lang": "cpp"
+  },
+  "twisted-mirror-path-count": {
+   "slug": "twisted-mirror-path-count",
+   "title": "Twisted Mirror Path Count",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-twisted-mirror-path-count.cpp",
+   "solvedAt": "2026-10-31T07:54:14.936Z",
    "lang": "cpp"
   }
  }
