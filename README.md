@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-11-01.
+> Auto-committed by Nexus OS. Updated 2026-11-02.
 
-**139** solutions - Easy 26 - Medium 73 - Hard 36
+**140** solutions - Easy 26 - Medium 74 - Hard 36
 
-## Array (68)
+## Array (69)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -75,6 +75,7 @@
 |  | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | Medium | [cpp](solutions/array/0000-minimum-xor-path-in-a-grid.cpp) |
 |  | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | Medium | [cpp](solutions/array/0000-twisted-mirror-path-count.cpp) |
 |  | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | Medium | [cpp](solutions/array/0000-minimum-moves-to-equal-array-elements.cpp) |
+|  | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Medium | [cpp](solutions/array/0000-minimum-moves-to-equal-array-elements-ii.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Backtracking (2)
