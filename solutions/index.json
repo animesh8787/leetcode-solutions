@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T06:08:31.122Z",
+ "updated": "2026-11-03T18:56:23.177Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1539,6 +1539,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-minimum-moves-to-equal-array-elements-ii.cpp",
    "solvedAt": "2026-11-02T06:08:27.699Z",
+   "lang": "cpp"
+  },
+  "minimum-moves-to-equal-array-elements-iii": {
+   "slug": "minimum-moves-to-equal-array-elements-iii",
+   "title": "Minimum Moves to Equal Array Elements III",
+   "qid": 0,
+   "difficulty": "Easy",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-minimum-moves-to-equal-array-elements-iii.cpp",
+   "solvedAt": "2026-11-03T18:56:19.330Z",
    "lang": "cpp"
   }
  }
