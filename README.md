@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-11-03.
+> Auto-committed by Nexus OS. Updated 2026-11-04.
 
-**141** solutions - Easy 27 - Medium 74 - Hard 36
+**142** solutions - Easy 27 - Medium 74 - Hard 37
 
-## Array (70)
+## Array (71)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -77,6 +77,7 @@
 |  | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | Medium | [cpp](solutions/array/0000-minimum-moves-to-equal-array-elements.cpp) |
 |  | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Medium | [cpp](solutions/array/0000-minimum-moves-to-equal-array-elements-ii.cpp) |
 |  | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | Easy | [cpp](solutions/array/0000-minimum-moves-to-equal-array-elements-iii.cpp) |
+|  | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard | [cpp](solutions/array/0000-minimum-operations-to-make-elements-within-k-subarrays-equal.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Backtracking (2)
