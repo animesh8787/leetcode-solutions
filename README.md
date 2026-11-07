@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-11-06.
+> Auto-committed by Nexus OS. Updated 2026-11-07.
 
-**144** solutions - Easy 28 - Medium 75 - Hard 37
+**145** solutions - Easy 28 - Medium 76 - Hard 37
 
-## Array (73)
+## Array (74)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -80,6 +80,7 @@
 |  | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard | [cpp](solutions/array/0000-minimum-operations-to-make-elements-within-k-subarrays-equal.cpp) |
 |  | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | Easy | [cpp](solutions/array/0000-find-the-distance-value-between-two-arrays.cpp) |
 |  | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | Medium | [cpp](solutions/array/0000-count-zero-request-servers.cpp) |
+|  | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | Medium | [cpp](solutions/array/0000-process-tasks-using-servers.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Backtracking (2)
