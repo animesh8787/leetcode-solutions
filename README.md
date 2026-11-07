@@ -2,9 +2,9 @@
 
 > Auto-committed by Nexus OS. Updated 2026-11-07.
 
-**145** solutions - Easy 28 - Medium 76 - Hard 37
+**145** solutions - Easy 28 - Medium 75 - Hard 37
 
-## Array (74)
+## Array (73)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -80,7 +80,6 @@
 |  | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard | [cpp](solutions/array/0000-minimum-operations-to-make-elements-within-k-subarrays-equal.cpp) |
 |  | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | Easy | [cpp](solutions/array/0000-find-the-distance-value-between-two-arrays.cpp) |
 |  | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | Medium | [cpp](solutions/array/0000-count-zero-request-servers.cpp) |
-|  | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | Medium | [cpp](solutions/array/0000-process-tasks-using-servers.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Backtracking (2)
@@ -144,7 +143,7 @@
 |  | [Gray Code](https://leetcode.com/problems/gray-code/) | Medium | [cpp](solutions/math/0000-gray-code.cpp) |
 |  | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | Easy | [cpp](solutions/math/0000-count-days-spent-together.cpp) |
 
-## Misc (5)
+## Misc (6)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -153,6 +152,7 @@
 |  | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | - | [cpp](solutions/misc/0000-spiral-matrix-ii.cpp) |
 |  | [Reverse String](https://leetcode.com/problems/reverse-string/) | - | [cpp](solutions/misc/0000-reverse-string.cpp) |
 |  | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Easy | [cpp](solutions/misc/0000-create-grid-with-exactly-one-path.cpp) |
+|  | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | - | [cpp](solutions/misc/0000-process-tasks-using-servers.cpp) |
 
 ## String (32)
 
