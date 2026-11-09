@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T15:48:20.078Z",
+ "updated": "2026-11-09T10:01:43.012Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1594,6 +1594,17 @@
    "ext": "cpp",
    "path": "solutions/misc/0000-process-tasks-using-servers.cpp",
    "solvedAt": "2026-11-07T15:48:16.790Z",
+   "lang": "cpp"
+  },
+  "find-servers-that-handled-most-number-of-requests": {
+   "slug": "find-servers-that-handled-most-number-of-requests",
+   "title": "Find Servers That Handled Most Number of Requests",
+   "qid": 0,
+   "difficulty": "Hard",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-find-servers-that-handled-most-number-of-requests.cpp",
+   "solvedAt": "2026-11-09T10:01:38.496Z",
    "lang": "cpp"
   }
  }
