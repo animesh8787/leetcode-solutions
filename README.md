@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-11-09.
+> Auto-committed by Nexus OS. Updated 2026-11-10.
 
-**146** solutions - Easy 28 - Medium 75 - Hard 38
+**147** solutions - Easy 28 - Medium 76 - Hard 38
 
-## Array (74)
+## Array (75)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -81,6 +81,7 @@
 |  | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | Easy | [cpp](solutions/array/0000-find-the-distance-value-between-two-arrays.cpp) |
 |  | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | Medium | [cpp](solutions/array/0000-count-zero-request-servers.cpp) |
 |  | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | Hard | [cpp](solutions/array/0000-find-servers-that-handled-most-number-of-requests.cpp) |
+|  | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | Medium | [cpp](solutions/array/0000-climbing-stairs-ii.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Backtracking (2)
