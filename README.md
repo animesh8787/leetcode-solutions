@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-11-10.
+> Auto-committed by Nexus OS. Updated 2026-11-11.
 
-**147** solutions - Easy 28 - Medium 76 - Hard 38
+**148** solutions - Easy 28 - Medium 77 - Hard 38
 
 ## Array (75)
 
@@ -124,7 +124,7 @@
 |  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [cpp](solutions/linked-list/0000-remove-duplicates-from-sorted-list.cpp) |
 |  | [Partition List](https://leetcode.com/problems/partition-list/) | Medium | [cpp](solutions/linked-list/0000-partition-list.cpp) |
 
-## Math (16)
+## Math (17)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -144,6 +144,7 @@
 |  | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | Medium | [cpp](solutions/math/0000-maximize-sum-of-squares-of-digits.cpp) |
 |  | [Gray Code](https://leetcode.com/problems/gray-code/) | Medium | [cpp](solutions/math/0000-gray-code.cpp) |
 |  | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | Easy | [cpp](solutions/math/0000-count-days-spent-together.cpp) |
+|  | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | Medium | [cpp](solutions/math/0000-minimum-cost-to-acquire-required-items.cpp) |
 
 ## Misc (6)
 
