@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T18:10:41.336Z",
+ "updated": "2026-11-11T18:10:59.866Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1622,11 +1622,11 @@
    "slug": "minimum-cost-to-acquire-required-items",
    "title": "Minimum Cost to Acquire Required Items",
    "qid": 0,
-   "difficulty": "Medium",
-   "topic": "math",
+   "difficulty": "",
+   "topic": "misc",
    "ext": "cpp",
-   "path": "solutions/math/0000-minimum-cost-to-acquire-required-items.cpp",
-   "solvedAt": "2026-11-11T18:10:32.857Z",
+   "path": "solutions/misc/0000-minimum-cost-to-acquire-required-items.cpp",
+   "solvedAt": "2026-11-11T18:10:57.056Z",
    "lang": "cpp"
   }
  }
