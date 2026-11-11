@@ -2,7 +2,7 @@
 
 > Auto-committed by Nexus OS. Updated 2026-11-11.
 
-**148** solutions - Easy 28 - Medium 77 - Hard 38
+**148** solutions - Easy 28 - Medium 76 - Hard 38
 
 ## Array (75)
 
@@ -124,7 +124,7 @@
 |  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [cpp](solutions/linked-list/0000-remove-duplicates-from-sorted-list.cpp) |
 |  | [Partition List](https://leetcode.com/problems/partition-list/) | Medium | [cpp](solutions/linked-list/0000-partition-list.cpp) |
 
-## Math (17)
+## Math (16)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -144,9 +144,8 @@
 |  | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | Medium | [cpp](solutions/math/0000-maximize-sum-of-squares-of-digits.cpp) |
 |  | [Gray Code](https://leetcode.com/problems/gray-code/) | Medium | [cpp](solutions/math/0000-gray-code.cpp) |
 |  | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | Easy | [cpp](solutions/math/0000-count-days-spent-together.cpp) |
-|  | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | Medium | [cpp](solutions/math/0000-minimum-cost-to-acquire-required-items.cpp) |
 
-## Misc (6)
+## Misc (7)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -156,6 +155,7 @@
 |  | [Reverse String](https://leetcode.com/problems/reverse-string/) | - | [cpp](solutions/misc/0000-reverse-string.cpp) |
 |  | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Easy | [cpp](solutions/misc/0000-create-grid-with-exactly-one-path.cpp) |
 |  | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | - | [cpp](solutions/misc/0000-process-tasks-using-servers.cpp) |
+|  | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | - | [cpp](solutions/misc/0000-minimum-cost-to-acquire-required-items.cpp) |
 
 ## String (32)
 
