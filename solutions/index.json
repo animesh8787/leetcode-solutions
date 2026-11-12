@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T18:10:59.866Z",
+ "updated": "2026-11-12T13:05:33.146Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1627,6 +1627,17 @@
    "ext": "cpp",
    "path": "solutions/misc/0000-minimum-cost-to-acquire-required-items.cpp",
    "solvedAt": "2026-11-11T18:10:57.056Z",
+   "lang": "cpp"
+  },
+  "longest-strictly-increasing-or-strictly-decreasing-subarray": {
+   "slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+   "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+   "qid": 0,
+   "difficulty": "Easy",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-longest-strictly-increasing-or-strictly-decreasing-subarray.cpp",
+   "solvedAt": "2026-11-12T13:05:27.579Z",
    "lang": "cpp"
   }
  }
