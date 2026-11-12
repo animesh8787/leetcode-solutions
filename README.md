@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-11-11.
+> Auto-committed by Nexus OS. Updated 2026-11-12.
 
-**148** solutions - Easy 28 - Medium 76 - Hard 38
+**149** solutions - Easy 29 - Medium 76 - Hard 38
 
-## Array (75)
+## Array (76)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -82,6 +82,7 @@
 |  | [Count Zero Request Servers](https://leetcode.com/problems/count-zero-request-servers/) | Medium | [cpp](solutions/array/0000-count-zero-request-servers.cpp) |
 |  | [Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/) | Hard | [cpp](solutions/array/0000-find-servers-that-handled-most-number-of-requests.cpp) |
 |  | [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii/) | Medium | [cpp](solutions/array/0000-climbing-stairs-ii.cpp) |
+|  | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy | [cpp](solutions/array/0000-longest-strictly-increasing-or-strictly-decreasing-subarray.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Backtracking (2)
