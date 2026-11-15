@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-11-14.
+> Auto-committed by Nexus OS. Updated 2026-11-15.
 
-**151** solutions - Easy 30 - Medium 76 - Hard 39
+**152** solutions - Easy 30 - Medium 77 - Hard 39
 
-## Array (78)
+## Array (79)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -85,6 +85,7 @@
 |  | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy | [cpp](solutions/array/0000-longest-strictly-increasing-or-strictly-decreasing-subarray.cpp) |
 |  | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | Hard | [cpp](solutions/array/0000-count-non-decreasing-subarrays-after-k-operations.cpp) |
 |  | [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/) | Easy | [cpp](solutions/array/0000-minimum-positive-sum-subarray.cpp) |
+|  | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium | [cpp](solutions/array/0000-number-of-sub-arrays-with-odd-sum.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Backtracking (2)
