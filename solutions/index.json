@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T16:03:33.582Z",
+ "updated": "2026-11-16T06:16:49.065Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1671,6 +1671,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-number-of-sub-arrays-with-odd-sum.cpp",
    "solvedAt": "2026-11-15T16:03:30.191Z",
+   "lang": "cpp"
+  },
+  "calculate-digit-sum-of-a-string": {
+   "slug": "calculate-digit-sum-of-a-string",
+   "title": "Calculate Digit Sum of a String",
+   "qid": 0,
+   "difficulty": "Easy",
+   "topic": "string",
+   "ext": "cpp",
+   "path": "solutions/string/0000-calculate-digit-sum-of-a-string.cpp",
+   "solvedAt": "2026-11-16T06:16:45.661Z",
    "lang": "cpp"
   }
  }
