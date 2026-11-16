@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-11-15.
+> Auto-committed by Nexus OS. Updated 2026-11-16.
 
-**152** solutions - Easy 30 - Medium 77 - Hard 39
+**153** solutions - Easy 31 - Medium 77 - Hard 39
 
 ## Array (79)
 
@@ -161,7 +161,7 @@
 |  | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | - | [cpp](solutions/misc/0000-process-tasks-using-servers.cpp) |
 |  | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | - | [cpp](solutions/misc/0000-minimum-cost-to-acquire-required-items.cpp) |
 
-## String (32)
+## String (33)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -197,6 +197,7 @@
 |  | [Scramble String](https://leetcode.com/problems/scramble-string/) | Hard | [cpp](solutions/string/0000-scramble-string.cpp) |
 |  | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | Medium | [cpp](solutions/string/0000-minimum-operations-to-sort-a-string.cpp) |
 |  | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium | [cpp](solutions/string/0000-shortest-path-with-at-most-k-consecutive-identical-characters.cpp) |
+|  | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | Easy | [cpp](solutions/string/0000-calculate-digit-sum-of-a-string.cpp) |
 
 ## Tree (1)
 
