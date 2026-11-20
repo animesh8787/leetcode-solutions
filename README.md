@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-11-19.
+> Auto-committed by Nexus OS. Updated 2026-11-20.
 
-**155** solutions - Easy 31 - Medium 79 - Hard 39
+**156** solutions - Easy 31 - Medium 79 - Hard 40
 
-## Array (80)
+## Array (81)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -87,6 +87,7 @@
 |  | [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/) | Easy | [cpp](solutions/array/0000-minimum-positive-sum-subarray.cpp) |
 |  | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | Medium | [cpp](solutions/array/0000-number-of-sub-arrays-with-odd-sum.cpp) |
 |  | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | Medium | [cpp](solutions/array/0000-minimum-score-by-changing-two-elements.cpp) |
+|  | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | Hard | [cpp](solutions/array/0000-maximize-consecutive-elements-in-an-array-after-modification.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Backtracking (2)
