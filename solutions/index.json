@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T10:10:23.939Z",
+ "updated": "2026-11-20T11:49:19.553Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1704,6 +1704,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-minimum-score-by-changing-two-elements.cpp",
    "solvedAt": "2026-11-19T10:10:19.616Z",
+   "lang": "cpp"
+  },
+  "maximize-consecutive-elements-in-an-array-after-modification": {
+   "slug": "maximize-consecutive-elements-in-an-array-after-modification",
+   "title": "Maximize Consecutive Elements in an Array After Modification",
+   "qid": 0,
+   "difficulty": "Hard",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-maximize-consecutive-elements-in-an-array-after-modification.cpp",
+   "solvedAt": "2026-11-20T11:49:15.546Z",
    "lang": "cpp"
   }
  }
