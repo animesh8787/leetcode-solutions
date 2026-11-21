@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T11:49:19.553Z",
+ "updated": "2026-11-21T07:05:49.770Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1715,6 +1715,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-maximize-consecutive-elements-in-an-array-after-modification.cpp",
    "solvedAt": "2026-11-20T11:49:15.546Z",
+   "lang": "cpp"
+  },
+  "find-subtree-sizes-after-changes": {
+   "slug": "find-subtree-sizes-after-changes",
+   "title": "Find Subtree Sizes After Changes",
+   "qid": 0,
+   "difficulty": "Medium",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-find-subtree-sizes-after-changes.cpp",
+   "solvedAt": "2026-11-21T07:05:46.591Z",
    "lang": "cpp"
   }
  }
