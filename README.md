@@ -1,10 +1,10 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-11-22.
+> Auto-committed by Nexus OS. Updated 2026-11-23.
 
-**158** solutions - Easy 32 - Medium 80 - Hard 40
+**159** solutions - Easy 32 - Medium 81 - Hard 40
 
-## Array (82)
+## Array (83)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -89,6 +89,7 @@
 |  | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | Medium | [cpp](solutions/array/0000-minimum-score-by-changing-two-elements.cpp) |
 |  | [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/) | Hard | [cpp](solutions/array/0000-maximize-consecutive-elements-in-an-array-after-modification.cpp) |
 |  | [Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/) | Medium | [cpp](solutions/array/0000-find-subtree-sizes-after-changes.cpp) |
+|  | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | Medium | [cpp](solutions/array/0000-product-of-the-last-k-numbers.cpp) |
 | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | [cpp](solutions/array/0778-swim-in-rising-water.cpp) |
 
 ## Backtracking (2)
