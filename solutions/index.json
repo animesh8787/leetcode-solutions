@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T06:53:16.542Z",
+ "updated": "2026-11-24T09:00:16.419Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1748,6 +1748,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-product-of-the-last-k-numbers.cpp",
    "solvedAt": "2026-11-23T06:53:13.148Z",
+   "lang": "cpp"
+  },
+  "maximum-subarray-with-equal-products": {
+   "slug": "maximum-subarray-with-equal-products",
+   "title": "Maximum Subarray With Equal Products",
+   "qid": 0,
+   "difficulty": "Easy",
+   "topic": "array",
+   "ext": "cpp",
+   "path": "solutions/array/0000-maximum-subarray-with-equal-products.cpp",
+   "solvedAt": "2026-11-24T09:00:12.409Z",
    "lang": "cpp"
   }
  }
