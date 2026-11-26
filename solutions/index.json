@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T18:20:28.184Z",
+ "updated": "2026-11-26T15:11:39.614Z",
  "entries": {
   "find-the-index-of-the-first-occurrence-in-a-string": {
    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
@@ -1770,6 +1770,17 @@
    "ext": "cpp",
    "path": "solutions/array/0000-smallest-unique-subarray.cpp",
    "solvedAt": "2026-11-25T18:20:24.380Z",
+   "lang": "cpp"
+  },
+  "stone-removal-game": {
+   "slug": "stone-removal-game",
+   "title": "Stone Removal Game",
+   "qid": 0,
+   "difficulty": "Easy",
+   "topic": "math",
+   "ext": "cpp",
+   "path": "solutions/math/0000-stone-removal-game.cpp",
+   "solvedAt": "2026-11-26T15:11:35.718Z",
    "lang": "cpp"
   }
  }
