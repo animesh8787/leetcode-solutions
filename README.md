@@ -1,8 +1,8 @@
 # LeetCode Solutions
 
-> Auto-committed by Nexus OS. Updated 2026-11-25.
+> Auto-committed by Nexus OS. Updated 2026-11-26.
 
-**161** solutions - Easy 33 - Medium 81 - Hard 41
+**162** solutions - Easy 34 - Medium 81 - Hard 41
 
 ## Array (85)
 
@@ -134,7 +134,7 @@
 |  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [cpp](solutions/linked-list/0000-remove-duplicates-from-sorted-list.cpp) |
 |  | [Partition List](https://leetcode.com/problems/partition-list/) | Medium | [cpp](solutions/linked-list/0000-partition-list.cpp) |
 
-## Math (16)
+## Math (17)
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
@@ -154,6 +154,7 @@
 |  | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | Medium | [cpp](solutions/math/0000-maximize-sum-of-squares-of-digits.cpp) |
 |  | [Gray Code](https://leetcode.com/problems/gray-code/) | Medium | [cpp](solutions/math/0000-gray-code.cpp) |
 |  | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | Easy | [cpp](solutions/math/0000-count-days-spent-together.cpp) |
+|  | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/) | Easy | [cpp](solutions/math/0000-stone-removal-game.cpp) |
 
 ## Misc (7)
 
